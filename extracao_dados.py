@@ -50,3 +50,54 @@ with open(metadata_filename, "w", encoding="utf-8") as f:
 # ===== LOG =====
 print(f"✅ CSV salvo em: {csv_filename}")
 print(f"📄 Metadados salvos em: {metadata_filename}")
+
+
+
+import pandas as pd
+
+df = pd.read_csv(csv_filename, nrows=100)  # lê só as primeiras linhas
+
+def map_dtype(dtype):
+    if pd.api.types.is_integer_dtype(dtype):
+        return "integer"
+    elif pd.api.types.is_float_dtype(dtype):
+        return "float"
+    elif pd.api.types.is_bool_dtype(dtype):
+        return "boolean"
+    else:
+        return "string"
+    
+
+schema = []
+
+for col in df.columns:
+    series = df[col]
+
+    schema.append({
+        "column": col,
+        "type": map_dtype(series.dtype),
+        "null_count": int(series.isnull().sum()),
+        "unique_values": int(series.nunique()),
+        "sample_value": str(series.dropna().iloc[0]) if not series.dropna().empty else ""
+    })
+
+
+    import json
+
+schema_json_file = f"schema_{project_id}_{timestamp}.json"
+
+with open(schema_json_file, "w", encoding="utf-8") as f:
+    json.dump(schema, f, indent=4, ensure_ascii=False)
+
+schema_md_file = f"schema_{project_id}_{timestamp}.md"
+
+with open(schema_md_file, "w", encoding="utf-8") as f:
+    f.write("# 📊 Schema Documentation\n\n")
+    f.write(f"Arquivo: {csv_filename}\n\n")
+
+    f.write("| Coluna | Tipo | Nulos | Únicos | Exemplo |\n")
+    f.write("|--------|------|-------|--------|---------|\n")
+
+    for col in schema:
+        f.write(f"| {col['column']} | {col['type']} | {col['null_count']} | "
+                f"{col['unique_values']} | {col['sample_value']} |\n")
