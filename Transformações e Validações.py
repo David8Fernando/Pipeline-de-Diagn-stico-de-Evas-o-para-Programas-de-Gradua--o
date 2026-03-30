@@ -1,13 +1,24 @@
 from pathlib import Path
+from datetime import datetime
+import pandas as pd
 from src.ingestao import carregar_dados
 from src.limpeza import limpar_dados
+from src.validacao import validar_dataset
 from src.transformacao import criar_metricas, tabelas_intermediarias_frequencia, tabelas_intermediarias_matricula, tabelas_intermediarias_desempenho
 from src.carga_dados_sql import carregar_dados_consolidados_sql 
 DATA_PATH = Path("data")
-#C:\Users\david\OneDrive\Documents\46 - Portifolio\01 - Engenharia de dados\data
+
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_PATH = BASE_DIR / "data"
+OUTPUT_PATH = DATA_PATH / "refined"
+OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
+
+
+
 def main():
 
-    from pathlib import Path
+    
 
     print("Procurando em:", DATA_PATH.resolve())
     print("Arquivos encontrados:", list(DATA_PATH.glob("*")))
@@ -22,32 +33,38 @@ def main():
 
     print(f"Usando arquivo: {arquivo}")
     
-
+    #1 - Leitura arquivo
     df = carregar_dados(arquivo)
+
+    #2 - Validação
+    validar_dataset(df)
+
+    #3 - limpeza 
     df = limpar_dados(df)
+
+    #4 - Transformação
     df_final = criar_metricas(df)
+
+    #5 - Tabelas intermediárias
     df_matricula = tabelas_intermediarias_matricula(df)
     df_frequencia = tabelas_intermediarias_frequencia(df)
     df_desempenho = tabelas_intermediarias_desempenho(df)
 
-    from pathlib import Path
+    #5 - Timestamp para rastreabilidade
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    BASE_DIR = Path(__file__).resolve().parent
+    #6 - Exportação para PowerBI
+    df_final.to_parquet(OUTPUT_PATH / f"consolidado_{timestamp}.parquet", index=False)
+    df_matricula.to_parquet(OUTPUT_PATH / f"matricula_{timestamp}.parquet", index=False)
+    df_frequencia.to_parquet(OUTPUT_PATH / f"frequencia_{timestamp}.parquet", index=False)
+    df_desempenho.to_parquet(OUTPUT_PATH / f"desempenho_{timestamp}.parquet", index=False)
 
-    OUTPUT_PATH = BASE_DIR / "output"
-    OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
-
-    df_final.to_parquet(OUTPUT_PATH / "consolidado.parquet", index=False)
-
-    df_matricula.to_parquet(OUTPUT_PATH / "matricula.parquet", index=False)
-    df_frequencia.to_parquet(OUTPUT_PATH / "frequencia.parquet", index=False)
-    df_desempenho.to_parquet(OUTPUT_PATH / "desempenho.parquet", index=False)
-
+    #7 - Exportação para SQL 
     df_consolidado_sql = carregar_dados_consolidados_sql(df)
 
     print("Pipeline executado com sucesso!")
     print("Consolidado SQL:")
-    print(df_consolidado_sql)
+    print(df_consolidado_sql.head())
 
 if __name__ == "__main__":
     main()
