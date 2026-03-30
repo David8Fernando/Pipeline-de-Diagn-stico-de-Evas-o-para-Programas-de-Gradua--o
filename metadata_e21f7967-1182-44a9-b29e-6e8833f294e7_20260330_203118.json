@@ -1,0 +1,19 @@
+{
+    "project_id": "e21f7967-1182-44a9-b29e-6e8833f294e7",
+    "download_timestamp": "20260330_203118",
+    "url": "https://api.datamission.com.br/projects/e21f7967-1182-44a9-b29e-6e8833f294e7/dataset?format=csv",
+    "status_code": 200,
+    "headers": {
+        "Date": "Mon, 30 Mar 2026 23:31:18 GMT",
+        "Content-Type": "text/csv; charset=utf-8",
+        "Content-Length": "99254",
+        "Connection": "keep-alive",
+        "content-disposition": "attachment; filename=\"dataset.csv\"",
+        "Server": "cloudflare",
+        "cf-cache-status": "DYNAMIC",
+        "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=BiEqtXsMQqp4lwYnk5hWhrDawJc0knoKLbZbprMNBbR6epZrYI1EzSQnupVj%2F59JnJLxr6sptE%2B8fTyE9WEV5zPqYIpZ4nsA6L5keUzDQ6xQUtPR5w9MweQ5Io8qZOQEUs425bCFREDpSiyNr1MQi0H6GlRt\"}]}",
+        "CF-RAY": "9e4ae837ef58501a-GRU",
+        "alt-svc": "h3=\":443\"; ma=86400"
+    }
+}

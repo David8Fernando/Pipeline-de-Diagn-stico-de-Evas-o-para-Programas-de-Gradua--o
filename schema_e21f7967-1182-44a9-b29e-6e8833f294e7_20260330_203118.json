@@ -1,0 +1,51 @@
+[
+    {
+        "column": "student_id",
+        "type": "string",
+        "null_count": 0,
+        "unique_values": 100,
+        "sample_value": "87b6d430-bafe-4ea9-afa9-b20151a3742d"
+    },
+    {
+        "column": "timestamp",
+        "type": "string",
+        "null_count": 0,
+        "unique_values": 100,
+        "sample_value": "2026-01-31T03:39:29.770495"
+    },
+    {
+        "column": "course_name",
+        "type": "string",
+        "null_count": 0,
+        "unique_values": 4,
+        "sample_value": "Ciência de Dados"
+    },
+    {
+        "column": "enrollment_status",
+        "type": "string",
+        "null_count": 0,
+        "unique_values": 4,
+        "sample_value": "DROPPED"
+    },
+    {
+        "column": "grade_point_average",
+        "type": "float",
+        "null_count": 0,
+        "unique_values": 67,
+        "sample_value": "7.1"
+    },
+    {
+        "column": "attendance_rate",
+        "type": "integer",
+        "null_count": 0,
+        "unique_values": 41,
+        "sample_value": "58"
+    },
+    {
+        "column": "scholarship_percent",
+        "type": "integer",
+        "null_count": 0,
+        "unique_values": 4,
+        "sample_value": "50"
+    }
+]

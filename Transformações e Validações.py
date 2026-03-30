@@ -1,75 +1,75 @@
 from pathlib import Path
 from datetime import datetime
-import pandas as pd
+
 from src.ingestao import carregar_dados
 from src.limpeza import limpar_dados
 from src.validacao import validar_dataset
-from src.transformacao import criar_metricas, tabelas_intermediarias_frequencia, tabelas_intermediarias_matricula, tabelas_intermediarias_desempenho
-from src.carga_dados_sql import carregar_dados_consolidados_sql 
+from src.transformacao import (
+    criar_metricas,
+    tabelas_intermediarias_frequencia,
+    tabelas_intermediarias_matricula,
+    tabelas_intermediarias_desempenho
+)
 from src.indicadores import gerar_indicadores
-DATA_PATH = Path("data")
+from src.carga_dados_sql import carregar_dados_consolidados_sql
 
 
+# 📁 caminhos corretos
 BASE_DIR = Path(__file__).resolve().parent
-DATA_PATH = BASE_DIR / "data"
-OUTPUT_PATH = DATA_PATH / "refined"
-OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
+RAW_PATH = BASE_DIR / "data" / "raw"
+REFINED_PATH = BASE_DIR / "data" / "refined"
 
+REFINED_PATH.mkdir(parents=True, exist_ok=True)
 
 
 def main():
 
-    
+    print("Procurando arquivos em:", RAW_PATH.resolve())
 
-    print("Procurando em:", DATA_PATH.resolve())
-    print("Arquivos encontrados:", list(DATA_PATH.glob("*")))
-
-
-    arquivos = list(DATA_PATH.glob("dataset_*.csv"))
+    arquivos = list(RAW_PATH.glob("dataset_*.csv"))
 
     if not arquivos:
-        raise FileNotFoundError(f"Nenhum dataset encontrado em {DATA_PATH.resolve()}")
+        raise FileNotFoundError(f"Nenhum dataset encontrado em {RAW_PATH.resolve()}")
 
+    # pega o mais recente
     arquivo = max(arquivos, key=lambda x: x.stat().st_mtime)
 
     print(f"Usando arquivo: {arquivo}")
-    
-    #1 - Leitura arquivo
+
+    # 1. leitura
     df = carregar_dados(arquivo)
 
-    #2 - Validação
+    # 2. validação
     validar_dataset(df)
 
-    #3 - limpeza 
+    # 3. limpeza
     df = limpar_dados(df)
 
-    #4 - Transformação
+    # 4. transformações
     df_final = criar_metricas(df)
-
-    # 5. Indicadores 
-    df_indicadores = gerar_indicadores(df)
-
-    #6 - Tabelas intermediárias
     df_matricula = tabelas_intermediarias_matricula(df)
     df_frequencia = tabelas_intermediarias_frequencia(df)
     df_desempenho = tabelas_intermediarias_desempenho(df)
 
-    #7 - Timestamp para rastreabilidade
+    # 5. indicadores (REQUISITO)
+    df_indicadores = gerar_indicadores(df)
+
+    # 6. timestamp
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    #8 - Exportação para PowerBI
-    df_final.to_parquet(OUTPUT_PATH / f"consolidado_{timestamp}.parquet", index=False)
-    df_matricula.to_parquet(OUTPUT_PATH / f"matricula_{timestamp}.parquet", index=False)
-    df_frequencia.to_parquet(OUTPUT_PATH / f"frequencia_{timestamp}.parquet", index=False)
-    df_desempenho.to_parquet(OUTPUT_PATH / f"desempenho_{timestamp}.parquet", index=False)
-    df_indicadores.to_parquet(OUTPUT_PATH / f"indicadores_{timestamp}.parquet",index=False)
+    # 7. exportação
+    df_final.to_parquet(REFINED_PATH / f"consolidado_{timestamp}.parquet", index=False)
+    df_matricula.to_parquet(REFINED_PATH / f"matricula_{timestamp}.parquet", index=False)
+    df_frequencia.to_parquet(REFINED_PATH / f"frequencia_{timestamp}.parquet", index=False)
+    df_desempenho.to_parquet(REFINED_PATH / f"desempenho_{timestamp}.parquet", index=False)
+    df_indicadores.to_parquet(REFINED_PATH / f"indicadores_{timestamp}.parquet", index=False)
 
-    #7 - Exportação para SQL 
-    df_consolidado_sql = carregar_dados_consolidados_sql(df)
+    # 8. sql
+    df_sql = carregar_dados_consolidados_sql(df)
 
     print("Pipeline executado com sucesso!")
-    print("Consolidado SQL:")
-    print(df_consolidado_sql.head())
+    print(df_sql.head())
+
 
 if __name__ == "__main__":
     main()
