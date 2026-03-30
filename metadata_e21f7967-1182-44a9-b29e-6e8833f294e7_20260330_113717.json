@@ -1,19 +1,19 @@
 {
     "project_id": "e21f7967-1182-44a9-b29e-6e8833f294e7",
-    "download_timestamp": "20260330_111505",
+    "download_timestamp": "20260330_113717",
     "url": "https://api.datamission.com.br/projects/e21f7967-1182-44a9-b29e-6e8833f294e7/dataset?format=csv",
     "status_code": 200,
     "headers": {
-        "Date": "Mon, 30 Mar 2026 14:15:05 GMT",
+        "Date": "Mon, 30 Mar 2026 14:37:17 GMT",
         "Content-Type": "text/csv; charset=utf-8",
-        "Content-Length": "98682",
+        "Content-Length": "99059",
         "Connection": "keep-alive",
         "content-disposition": "attachment; filename=\"dataset.csv\"",
         "Server": "cloudflare",
         "cf-cache-status": "DYNAMIC",
         "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
-        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=a9dDQMpgDBaI4hUH%2BS3KOvVni9qutPXXzTg%2BiSRl5zuR%2FyGVTz3disd32M%2Br%2BaRWmPqMIjLDlP%2FJHtSVVMt0f%2BxByoa25QTu%2BEObg8VkExx9ACjDOCA9HtlYnoMUwetb6Br%2BmgeHsgsAk6d8kMfowkKvR1pc\"}]}",
-        "CF-RAY": "9e47b96fffd7f16b-GRU",
+        "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=sv6%2BubDj2bUmRQAefPOHbJAMp3MWWCZ8gocQgibzcec0nVluTJms4ZJDh8Qh4scYU22Ieswy7lcdqjsLxw%2B9Oxv0mFAuEisEHwf8%2FsjNRycigYHAQsO0F2U8k5jnMB1hOGN%2FVS9suHeRJjqQ6mhl4b6Ulqx3\"}]}",
+        "CF-RAY": "9e47d9f2b9b4d249-GRU",
         "alt-svc": "h3=\":443\"; ma=86400"
     }
 }

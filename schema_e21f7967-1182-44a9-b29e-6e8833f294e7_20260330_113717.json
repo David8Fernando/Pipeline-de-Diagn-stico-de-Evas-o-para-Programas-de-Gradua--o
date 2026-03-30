@@ -4,42 +4,42 @@
         "type": "string",
         "null_count": 0,
         "unique_values": 100,
-        "sample_value": "4a9bd115-f845-422e-a82e-cb6a239b3dc0"
+        "sample_value": "f2bac8d6-73c3-4ead-80ed-aebf3cac5ef7"
     },
     {
         "column": "timestamp",
         "type": "string",
         "null_count": 0,
         "unique_values": 100,
-        "sample_value": "2026-01-08T08:36:02.777548"
+        "sample_value": "2026-01-31T18:23:27.600356"
     },
     {
         "column": "course_name",
         "type": "string",
         "null_count": 0,
         "unique_values": 4,
-        "sample_value": "Administração"
+        "sample_value": "Ciência de Dados"
     },
     {
         "column": "enrollment_status",
         "type": "string",
         "null_count": 0,
         "unique_values": 4,
-        "sample_value": "DROPPED"
+        "sample_value": "SUSPENDED"
     },
     {
         "column": "grade_point_average",
         "type": "float",
         "null_count": 0,
-        "unique_values": 63,
-        "sample_value": "0.1"
+        "unique_values": 59,
+        "sample_value": "4.5"
     },
     {
         "column": "attendance_rate",
         "type": "integer",
         "null_count": 0,
         "unique_values": 46,
-        "sample_value": "93"
+        "sample_value": "73"
     },
     {
         "column": "scholarship_percent",
