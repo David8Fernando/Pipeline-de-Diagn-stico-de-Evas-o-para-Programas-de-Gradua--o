@@ -1,6 +1,6 @@
-from pathlib import Path
-from datetime import datetime
+import pandas as pd
 
+from src.ingestao_api import baixar_dados_api
 from src.ingestao import carregar_dados
 from src.limpeza import limpar_dados
 from src.validacao import validar_dataset
@@ -11,63 +11,47 @@ from src.transformacao import (
     tabelas_intermediarias_desempenho
 )
 from src.indicadores import gerar_indicadores
+from src.exportar_dados_powerbi import exportar_dados
 from src.carga_dados_sql import carregar_dados_consolidados_sql
 
 
-# 📁 caminhos corretos
-BASE_DIR = Path(__file__).resolve().parent
-RAW_PATH = BASE_DIR / "data" / "raw"
-REFINED_PATH = BASE_DIR / "data" / "refined"
-
-REFINED_PATH.mkdir(parents=True, exist_ok=True)
+PROJECT_ID = "e21f7967-1182-44a9-b29e-6e8833f294e7"
 
 
 def main():
 
-    print("Procurando arquivos em:", RAW_PATH.resolve())
+    # 1. EXTRAÇÃO AUTOMÁTICA
+    arquivo = baixar_dados_api(PROJECT_ID)
 
-    arquivos = list(RAW_PATH.glob("dataset_*.csv"))
-
-    if not arquivos:
-        raise FileNotFoundError(f"Nenhum dataset encontrado em {RAW_PATH.resolve()}")
-
-    # pega o mais recente
-    arquivo = max(arquivos, key=lambda x: x.stat().st_mtime)
-
-    print(f"Usando arquivo: {arquivo}")
-
-    # 1. leitura
+    # 2. LEITURA (SEM BUSCA MANUAL)
     df = carregar_dados(arquivo)
 
-    # 2. validação
+    # 3. VALIDAÇÃO
     validar_dataset(df)
 
-    # 3. limpeza
+    # 4. LIMPEZA
     df = limpar_dados(df)
 
-    # 4. transformações
-    df_final = criar_metricas(df)
+    # 5. TRANSFORMAÇÕES
+    df_consolidado = criar_metricas(df)
     df_matricula = tabelas_intermediarias_matricula(df)
     df_frequencia = tabelas_intermediarias_frequencia(df)
     df_desempenho = tabelas_intermediarias_desempenho(df)
 
-    # 5. indicadores (REQUISITO)
+    # 6. INDICADORES (REQUISITO)
     df_indicadores = gerar_indicadores(df)
 
-    # 6. timestamp
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # 7. EXPORTAÇÃO POWER BI (AGORA CORRETA)
+    exportar_dados(df_consolidado, "consolidado")
+    exportar_dados(df_matricula, "matricula")
+    exportar_dados(df_frequencia, "frequencia")
+    exportar_dados(df_desempenho, "desempenho")
+    exportar_dados(df_indicadores, "indicadores")
 
-    # 7. exportação
-    df_final.to_parquet(REFINED_PATH / f"consolidado_{timestamp}.parquet", index=False)
-    df_matricula.to_parquet(REFINED_PATH / f"matricula_{timestamp}.parquet", index=False)
-    df_frequencia.to_parquet(REFINED_PATH / f"frequencia_{timestamp}.parquet", index=False)
-    df_desempenho.to_parquet(REFINED_PATH / f"desempenho_{timestamp}.parquet", index=False)
-    df_indicadores.to_parquet(REFINED_PATH / f"indicadores_{timestamp}.parquet", index=False)
-
-    # 8. sql
+    # 8. SQL
     df_sql = carregar_dados_consolidados_sql(df)
 
-    print("Pipeline executado com sucesso!")
+    print(" PIPELINE EXECUTADA COM SUCESSO")
     print(df_sql.head())
 
 

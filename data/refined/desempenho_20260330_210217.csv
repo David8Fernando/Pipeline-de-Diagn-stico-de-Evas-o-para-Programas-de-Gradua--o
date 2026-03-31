@@ -1,0 +1,1001 @@
+student_id,course_name,grade_point_average
+5694e8a3-123b-4c79-9eae-7e16941a545e,Ciência de Dados,7.8
+f7b960a6-2c4d-4972-84d0-b7614e46afd6,Ciência de Dados,8.9
+2cfa1c18-8ca1-4cb2-b36c-4873a9fb2a51,Administração,7.0
+8c90b9df-f1c9-4c3c-b0cb-1eb0d38d5b14,Direito,1.7
+3db44535-f747-4b95-836a-8d5c23e595b5,Ciência de Dados,2.0
+a05e980f-9926-4973-86a8-ba4a1c3bfcbf,Direito,1.3
+62e9709a-5c8d-48d7-a8c4-f9941dd391ba,Administração,9.9
+d4b1402c-6d17-4e26-a79d-2c81710bd222,Administração,5.3
+627889dc-03ff-45d5-a5cd-cbcce668e7ec,Engenharia de Software,5.8
+33f4487a-2d92-4b4a-8390-6a19ac489a2a,Direito,6.1
+5eafe86e-2743-40c4-aa96-5f5946b3ddfe,Engenharia de Software,7.6
+e3398222-40b5-4d89-85cf-5494cc20987d,Administração,4.0
+2688e668-afe7-4c46-8780-4ba050e5f5e6,Administração,7.5
+2c8cdfed-62a3-4259-9e9d-d371ca3a3391,Direito,6.1
+87ac32fd-bddb-4d3a-8e69-327e410abe8f,Ciência de Dados,6.8
+0eb513c1-c9e7-41d9-9a1f-2dddc9aa6fd4,Direito,3.9
+5605a7ca-294b-489b-b3f2-e2558aa39af9,Ciência de Dados,0.7
+2a57540c-e7f7-48d7-b9d2-d81d1e021cff,Administração,9.0
+b4aaf072-bb19-4954-bf2f-effc8938c3df,Administração,8.3
+6a9c7fc9-55fc-4ac9-8a92-61476416ee03,Ciência de Dados,7.3
+54dd5da4-8f00-4e93-8c6b-5419fbc8aef1,Engenharia de Software,8.1
+353f4dbf-3ff9-420e-b47f-8193e52e11d6,Direito,3.6
+e0b5dc09-8033-4621-8c4f-b59912d626a6,Engenharia de Software,2.7
+8ca3f3b0-6fb2-421e-bc05-75bb0466929a,Ciência de Dados,6.1
+d5f40cb8-b018-4401-b2ec-f3b0dbf5484f,Engenharia de Software,1.2
+accf441b-6515-48a6-ba28-e0959348d9d8,Administração,6.7
+4d4e718e-03e2-4035-83f5-2e108bf8ba45,Engenharia de Software,9.5
+50de9ad4-cdaf-4460-8505-742c35425ea9,Administração,9.7
+4f6bbf81-f277-44c1-921e-c2661ef70bf4,Ciência de Dados,4.2
+67abfc99-ca5a-4db2-b78a-7be8b60723ed,Engenharia de Software,7.1
+974c6218-f877-47d6-beba-ec76a1fa83bb,Administração,9.6
+1c02e020-6214-40de-bb0b-37748628af27,Engenharia de Software,8.4
+f721695a-0862-48b1-b125-a7a0b2962a81,Administração,1.9
+fc211166-334f-4754-9f2a-29ed53a5e08b,Administração,5.2
+f0f818cd-d0ab-4562-bed2-34933d765268,Direito,9.3
+08b6bf73-57d8-4675-9f7b-e9bb3b3557f8,Direito,2.8
+882272b2-184c-4aa1-a1e3-449f07f42789,Direito,2.6
+9c955f24-98b7-484d-b1d1-ee1afd1a8cb5,Engenharia de Software,1.7
+d7e561e7-73c0-4c07-8edb-cb85ce974b61,Administração,6.7
+cfca9b1f-c6c1-49bb-b45f-6b734b9f167f,Administração,5.4
+4ea86dac-559f-4dfd-8917-4b9f80127977,Direito,3.3
+f614f4bc-01b4-41b6-b2e9-f35bba929f7b,Direito,7.0
+bdcf0963-15c6-4eb0-863a-547c982cae3d,Engenharia de Software,6.2
+53a0d86c-1e65-4d65-98f4-f3b3ce23341e,Administração,0.5
+8c723318-a1cf-46c8-a21d-5e47f7b15e89,Administração,3.3
+1b3002e6-5250-4599-b909-3a1019a1b95a,Administração,5.1
+43a681dd-d806-46af-93ba-5a98dccbe9a2,Administração,0.0
+c53133e0-6554-4125-ae61-9277c21824e5,Direito,2.7
+9e1ae346-0ba5-42f0-9bca-412527f4f1bb,Administração,6.9
+33188cf2-03a0-441d-b9e8-595488a3cab9,Administração,1.0
+e30ca245-81d5-4ac6-a687-dc757d53e5c9,Engenharia de Software,3.1
+88e326ff-bcd4-4759-9cc9-47e608f69660,Engenharia de Software,6.0
+3e6593e2-e50a-486f-a587-413f1acb9a0b,Ciência de Dados,2.8
+c71d0e3b-81d9-470d-aa88-fe5185fe88fd,Administração,7.3
+0ecd3a27-4eda-487e-bd6d-b7ed40c4b9c2,Direito,3.8
+25378137-cc88-4e9d-b54c-4dca94880a2e,Administração,5.9
+8510d9df-4ccb-4b9f-9c0e-ff7f2828c575,Engenharia de Software,2.6
+d44c7769-c958-490c-81a9-aafb4309c51d,Ciência de Dados,7.0
+a9a5aa57-3620-43d9-be16-264b84c96b12,Ciência de Dados,7.4
+50144ea4-27c0-4062-870f-ae71d62ca61c,Direito,0.3
+a8f16869-4ddf-4ce8-a72b-24b64d48cb3c,Engenharia de Software,9.2
+548fa08a-7d54-4f77-b759-ac5752890b37,Direito,9.8
+495a4856-6e49-4445-b7b8-5bfd14f174d1,Engenharia de Software,7.6
+fd3620bc-9ab3-4a81-ae7c-87794c44063f,Administração,4.8
+a7e96b67-e353-48c3-aa4d-bf6a38b1fc08,Administração,7.6
+e3d2d18c-d410-40a1-b7d6-ad9ea7c03a73,Engenharia de Software,7.9
+5941c72c-d285-4eea-9d22-8363d9951129,Administração,4.6
+5f763d3c-2142-486d-bdea-0948d62e0046,Engenharia de Software,4.8
+8b1d0a90-1de5-41ee-bf88-2d0e037a0f4d,Direito,5.1
+e88973ae-17e4-428e-8d5c-754b924f3c0f,Administração,5.8
+0406b0ef-da10-46cf-971f-3bb9228d4856,Administração,3.6
+814e7bdb-95e5-4cfe-a61c-2992d9400e61,Direito,8.6
+311a47ac-eedd-426c-9ce2-0e2a698f25f3,Ciência de Dados,1.0
+f82d2532-1738-4988-8f23-8b22fe60dfb7,Administração,0.2
+e5eb0661-ab59-4bbe-aa88-97893bd75853,Direito,6.9
+13b0248b-9d4b-41eb-afce-aa817a6eaf35,Administração,2.8
+7ae6a084-77b4-42b0-b94a-b272f1651dac,Administração,8.7
+c59dee6e-125a-43e8-8bb7-ab2e4f4098a2,Engenharia de Software,3.6
+22b1cc57-75ee-4ecc-8d53-78bbebcb1bc3,Ciência de Dados,0.6
+80ed4530-7944-49ab-bdeb-5830c5c04ece,Direito,9.2
+0e00ecfe-eb49-4d8d-a117-ca6b80a7e11b,Ciência de Dados,7.8
+abba045d-866f-44c3-a7e5-918e39eee12a,Engenharia de Software,3.8
+4a7eae46-3151-4562-902e-f8087aafde0e,Engenharia de Software,4.5
+c6ca72f7-9691-4acb-9368-5527d64bcdc6,Engenharia de Software,1.3
+6282cb5d-e3f3-46f6-a63e-7f30c84f812a,Engenharia de Software,8.8
+353fbf2f-7ab5-4a73-b8c2-65600784e82b,Direito,9.0
+1c43e888-5182-4a4e-bf60-3506eafe2626,Engenharia de Software,5.6
+6b06d2cd-49c5-49a8-a95d-e078793e408a,Ciência de Dados,9.0
+15d74451-0892-4d5b-9685-08ece9f9ae3c,Direito,4.4
+6db7ce1b-7204-4063-8624-61f6bdcdae21,Direito,3.8
+c0d64139-665a-491d-ba53-11feaab9b334,Ciência de Dados,1.7
+3b83fdbc-557e-4b33-abf1-e6040861b7df,Administração,0.2
+fad41efb-4a83-431a-a808-f731ab10242e,Direito,2.3
+962af260-4e23-4608-9709-9182f1f6b5dd,Administração,4.0
+1fc96994-7fdf-48b5-88c0-48081897d912,Direito,2.5
+8d8ce5ec-5012-4f8b-a82a-cb515118e6b8,Administração,8.3
+aca7a3ed-ac40-4c82-97dd-15549afea2c3,Administração,8.9
+f536d583-4d0e-48d6-b113-f4df937fb041,Ciência de Dados,6.1
+4561701c-fb30-48e9-94eb-6dec5e7d485e,Ciência de Dados,6.6
+c32ef6bf-e1d3-4ebf-93d7-6b8f4464d0c9,Engenharia de Software,7.9
+f98f76c2-7641-42e0-8688-725e0b645c07,Engenharia de Software,4.2
+feeb24b4-800e-421b-bb7f-91feadf2042a,Administração,1.4
+471c32ac-aa74-4df6-8639-558b1ef7e83d,Direito,8.2
+14853b4b-f93e-4899-ba37-db29a61054dc,Engenharia de Software,4.6
+4bd247ba-1a23-4f11-8ea6-a4a38073795d,Administração,7.7
+4f73c603-7e80-4497-970e-2526fc1f34d7,Administração,5.4
+a9abc740-2614-4c77-b7a9-9828a878fd4e,Administração,1.9
+bf46f1db-cda2-4103-9990-3cb1cfff1ac8,Administração,5.6
+8707677a-a068-4380-ab91-3c8bb2688568,Ciência de Dados,7.4
+5d5d9b9a-e6d3-4f20-a927-1b39cb484754,Engenharia de Software,2.5
+697dd964-8997-40bd-9918-5da40e8c1699,Direito,3.0
+ef8a625a-b1d9-4b2d-aac2-372066dd1157,Direito,2.0
+b7be0337-97b2-470f-b93c-7082f3aefb41,Administração,7.7
+1ad66ec4-3bd2-4a0e-ae6f-4a240c53a5c9,Administração,9.0
+0034c1da-0293-448e-bbf2-6332b1adfd82,Direito,9.4
+1a015260-e52f-427d-a235-8334931533b4,Direito,8.4
+bff3e483-5f90-4979-b9ed-af26288f7973,Direito,4.0
+03ff9840-07be-46b3-8345-11642b49f47e,Administração,4.2
+9e763faa-8f52-441c-8cb4-ff4f78caffa0,Administração,6.2
+ce9a0da5-59f8-41f0-9156-389d7b4a2eba,Ciência de Dados,2.8
+f57d185d-126a-4ab8-879c-9d81872dad3a,Direito,3.2
+1797d360-ae6f-45a5-b112-6b64301d7b28,Direito,4.5
+26845c2b-30a3-459f-a845-cdf62c877e21,Ciência de Dados,10.0
+809cbd52-2b17-4fe2-8260-78d2a02fbc44,Direito,7.2
+91f2fe41-cc3a-43b8-a616-0ecfb6a60cd5,Direito,5.5
+365b6e69-1e75-45bc-baa2-bd94c1667109,Administração,1.3
+e6ba04f6-c7d7-4cc2-9b34-8f636c26102f,Ciência de Dados,1.9
+d2d94884-1aad-4a64-a160-aa086bffaed3,Ciência de Dados,3.9
+ee04e10f-0283-4b9c-b1e1-059695bce948,Ciência de Dados,8.2
+5c3578b6-8a2a-4fb2-a4b8-60d67b2b3a7e,Engenharia de Software,8.8
+50df73e2-36d4-489b-8d8a-f7621116d931,Ciência de Dados,6.9
+97bcadc8-7b25-44b7-bf70-78e6d63c0e05,Ciência de Dados,2.6
+cad7ffa5-3334-4295-bbca-ce9eba59bb88,Ciência de Dados,10.0
+5a57f732-e568-474f-b930-c4cca918bca4,Administração,4.4
+f01ced62-b1b5-4280-889c-d5cfd4d3b1be,Direito,8.5
+1134bf8c-8e40-40a8-ad2d-87bbc1cc69cf,Direito,5.9
+eff9e8d1-b07f-46b4-ae84-2a2f44b6d827,Administração,3.8
+83cbb1c8-3076-4a7c-b1b3-b477b518b528,Engenharia de Software,1.1
+7cf0211e-8651-44c7-91c1-0c7cb5e44fbd,Administração,4.8
+df5c0645-b540-4bac-a082-379d783ff39d,Administração,4.4
+d3e70db2-8f4d-4b48-b6c2-af01c058037c,Direito,5.4
+71a94544-5b43-4fab-94ec-0117c660af2d,Administração,1.2
+4076fff1-bb45-4ee2-b98c-34965ea63dd8,Administração,5.3
+354f26b7-7981-436f-b7ba-46af33e10e57,Engenharia de Software,1.0
+fe4d09b3-8cc8-4753-a09e-a267e7dd8cf4,Administração,7.0
+72a44355-61e5-4c79-a8f8-22d63258e9c2,Administração,8.0
+a955d184-37a6-4175-945b-440fac87ecb1,Direito,1.5
+34f3a332-50c6-482c-9c6a-c2d99da04ae6,Ciência de Dados,0.9
+4a0b04c6-d2ad-4d49-a164-d64c22105f75,Ciência de Dados,5.9
+a322c043-8746-4fe8-8425-8c1f4868cbe6,Direito,0.7
+f549351c-f337-4821-9c4d-10d06c9af562,Engenharia de Software,6.5
+810a7aa1-aa75-42f7-b389-d871467f42cc,Engenharia de Software,0.5
+d89a27a4-c6b1-42c1-a24f-1d0683970ca3,Administração,1.6
+ce4f55c2-020f-4c55-9ee2-45b65e3a07c2,Ciência de Dados,7.8
+66e8efad-cad8-4679-bc3d-bc39c4809281,Ciência de Dados,10.0
+c58be35a-f659-4129-9794-d81bfa10ec38,Ciência de Dados,2.4
+5a494b24-d952-4ab4-bd57-03cbf3073a67,Administração,8.2
+82348521-bf8e-41f7-bb4f-e041d968ce80,Direito,9.1
+fc643b15-dda2-4e0d-a83d-d41996eddb99,Administração,7.2
+79c2012d-470a-41fa-a24c-ce23c417186a,Direito,8.9
+1cd08386-11ae-4d34-87d2-95fcdae50a4a,Administração,2.8
+39de74cf-797b-442e-adf3-b4c641d90bd1,Administração,6.1
+7f940a8d-47c2-45e0-ae13-9d5f61dd8243,Direito,3.1
+6f3c33d2-9746-4ca8-8f9a-aaa0c4391282,Engenharia de Software,4.2
+804d86b1-aaca-4fe4-888c-57583e6d2c89,Administração,3.9
+67a9d18d-5c91-454f-83d5-7605f657cee0,Engenharia de Software,5.3
+4579c630-70ec-4334-9a38-1b6bd7862c17,Ciência de Dados,8.8
+67ce7df2-b5bc-4d19-ae1c-7c2728b4aa52,Direito,1.1
+ae37b517-ed2a-4b29-a9d5-041c76ea9677,Administração,9.5
+aeaf53a3-6322-40da-9a4c-ec643d8d2db7,Administração,2.5
+b1a2728f-632d-4af6-aeb9-03028098a7d7,Ciência de Dados,4.6
+8bd9b8dc-f4ec-40e1-8bdf-d816855b88f1,Direito,5.7
+00ffc57f-5be4-4d5e-80a4-22e3b43bcc7d,Administração,7.2
+2cdba27e-f783-4c83-8e97-70fad3c512df,Ciência de Dados,2.9
+02ac8c64-1312-40e5-8c09-a708312e75c3,Engenharia de Software,0.6
+1ab9760e-193d-4174-8ed0-535c0c875ece,Engenharia de Software,1.4
+c046e440-b7fc-450c-b70c-4f33a9791f8a,Ciência de Dados,2.7
+c515b072-2139-473e-81b9-4815077204cb,Ciência de Dados,5.1
+61278d5b-d7ee-4413-a788-06980d3f6506,Direito,0.5
+e8baea9b-232c-426e-8856-42c1776f1673,Direito,6.0
+17e90808-1a0e-4404-931d-4100653e85e0,Ciência de Dados,6.2
+38aee036-30bc-4227-926d-491f68c7ca36,Ciência de Dados,3.5
+5d430e43-48ca-4742-9f71-877e081284bb,Engenharia de Software,8.4
+0c8e5879-ca3b-447a-b1df-382acce55898,Ciência de Dados,3.9
+938e7697-02c5-46f8-a967-41bbadc48d8d,Ciência de Dados,6.3
+24a37aaf-c6cd-45dc-837e-a64be25a58da,Engenharia de Software,8.8
+8e330384-2e52-4066-8e40-167f67a04075,Ciência de Dados,6.6
+ff04f294-fff6-4d54-8cff-6fec911bc9f2,Administração,1.3
+04810e47-953e-4dfd-ba45-c24d4d10d1db,Ciência de Dados,0.0
+ba28aadf-a9b3-47f0-a02f-a16ce3cbafd5,Engenharia de Software,1.3
+0e37b571-f1f9-47ad-8fca-2444017f183d,Ciência de Dados,8.9
+4c199674-16cf-455d-aedc-37db7c940a42,Direito,7.7
+32f546a6-7c85-4370-953b-2db105aa4b5a,Direito,5.9
+00b9045e-dd38-4ad6-b51c-ef1f3850ff2d,Administração,2.9
+8fedbe9e-0aac-4a63-afb1-9df3b63b06ca,Engenharia de Software,3.5
+1e03cec7-ec66-4799-a6b1-7f93d832aa92,Engenharia de Software,3.7
+56370840-028a-4be7-9b4d-bebd566a8c06,Administração,3.1
+1e55424b-7607-4b7f-a88c-82c4cc92413c,Ciência de Dados,0.8
+1c05319a-8605-4da0-b3fe-175ddc64364a,Engenharia de Software,0.1
+3e6d97cd-88c1-423b-a326-c02e7ad0d3cf,Engenharia de Software,8.7
+9500937f-baec-4388-8f18-83288daf4965,Administração,9.7
+7f06ebf0-81ec-4f16-a9fb-a7a8bf8ecb77,Direito,2.4
+281b6aaf-60ed-4822-a871-aeac9086f38a,Engenharia de Software,8.4
+fe25ee3e-5508-4ca5-be8a-334d09433f05,Administração,5.5
+96abf0f5-22ea-4029-a69d-0dd2d8ad4883,Ciência de Dados,3.8
+6153fb96-941b-4934-a0d9-76d61afe1915,Ciência de Dados,3.6
+455a35e0-1f22-42b4-a061-9fce1a5c96dd,Engenharia de Software,9.1
+00c44e35-e925-4eab-b675-6c08620aa660,Engenharia de Software,7.3
+776640e7-919f-4178-93a9-53506f3ff34d,Ciência de Dados,2.5
+a207bce3-764b-4940-b497-f9e3974d4a56,Direito,2.6
+1063ed32-e4d0-4881-8b99-fbbc2be38d0d,Administração,2.6
+da598643-7ca6-46eb-9db2-647824fb5458,Engenharia de Software,8.2
+a2ac3c0a-a705-43d1-be7e-224a0c783ae7,Engenharia de Software,5.1
+c467bfbc-0a71-4adb-83fd-1b9a6ab8b774,Direito,0.8
+37b24846-a53c-486e-a0e4-05e439f76978,Engenharia de Software,7.6
+c80ab31e-83d3-4c2d-94ba-0adfb7e6be45,Engenharia de Software,2.9
+3a378334-4e0e-47e2-8088-08b5cf398889,Administração,5.0
+4e352569-8627-4dfe-8a6d-34faaa1afeeb,Direito,0.4
+0cb424d4-8369-492c-9516-0204efc82d58,Administração,0.2
+d8726b02-2b63-4cad-b3cb-f9911b0d1bf7,Ciência de Dados,2.8
+c90418fd-993d-45e1-a84d-14e5deac07c1,Engenharia de Software,1.7
+f7af0a3a-c963-4b51-a71c-64e30e5568e0,Ciência de Dados,9.8
+de4401d8-23ea-4cda-8edf-2dcdfdd72dce,Engenharia de Software,5.6
+20db5d4d-6d75-47c1-8fd6-4196fe0600d1,Direito,2.1
+a3f4d7d3-edb6-4054-8771-e5101c982b42,Administração,8.1
+dc997e30-0670-4f9c-8ce9-31b32b410609,Ciência de Dados,9.2
+4eb5438a-8881-4828-a8e2-3a363ef1ab80,Direito,2.7
+73ba3cf6-c118-452b-abd0-9ca7601f3da0,Engenharia de Software,5.2
+5618405f-af84-477a-a933-9cbc91532236,Engenharia de Software,7.6
+484cdff5-68a1-4f3c-a2e5-428a5574414a,Direito,7.4
+5c79f0e4-ed38-4e60-b314-e49b451b8910,Direito,6.5
+b00c5786-1f67-4883-b896-29c3975c4e08,Direito,4.3
+8d64008e-fa9d-49c9-8f9b-5a792645c66b,Engenharia de Software,1.4
+f877ea87-fbee-4a3d-92e4-524f3858d74a,Ciência de Dados,1.1
+a8cfd916-e9cf-4c43-9808-97b3f65f7c92,Administração,5.4
+4db64c40-b9e8-45b0-9ae6-eeb368c35fb6,Administração,7.9
+d17e770d-47e2-40e8-80ab-2be0927880f1,Ciência de Dados,0.2
+74e012ce-d5d4-4177-b959-233ba47dd067,Direito,6.7
+16e7d86d-6910-4bfe-9ab3-1b4054a0623e,Direito,5.5
+ff4f640f-79ed-4a98-83b4-876234656876,Direito,8.5
+f7f90871-c5aa-44be-a0db-abd0e1c6a122,Direito,0.9
+9c23c580-c204-4f1e-860b-93d3860744a5,Ciência de Dados,3.5
+9ca959c0-453b-4cd6-a347-65d686efe557,Ciência de Dados,7.1
+ccd8b0b8-54af-4f56-a19a-1a8bc3847488,Direito,6.1
+fb35912d-967c-46f5-842d-6bc309f356b0,Engenharia de Software,4.9
+f7493261-d431-4ad4-904a-06761f1406fc,Direito,9.5
+f595b484-0860-49dc-9b2e-38e4de9754c3,Engenharia de Software,8.6
+d614c42b-64f9-4560-b468-d3bac0f187f0,Ciência de Dados,7.8
+fbf8bc61-e528-46c5-bb06-17e4d34356bb,Administração,0.5
+9e44b7e3-2ba4-475a-9a9f-d55db051fd64,Ciência de Dados,6.6
+f7cde27e-4703-4ba9-a9ea-f8b0ec883937,Direito,3.8
+10765288-890d-4c26-83e2-ec3367e70435,Ciência de Dados,4.8
+eacf2167-dc04-49ec-8dd6-f6545a5d79b8,Ciência de Dados,3.7
+e8c9ee13-e265-4824-97fd-d5ad61c53ae3,Direito,1.2
+501b0210-4699-4977-9c51-99a214547385,Ciência de Dados,9.3
+f98d7935-9a3a-4ab7-8d9f-9c2fa358cd23,Ciência de Dados,4.0
+e5bfd8a0-362f-4341-a484-ecd94255931b,Ciência de Dados,9.9
+fb3184ab-da52-4ab0-ae89-d30b2b944ab7,Ciência de Dados,2.7
+e0dc47b0-2011-4ea1-a745-1aee0fde7676,Administração,6.3
+0b24a96f-33e2-4c1b-91bb-76fd038019c3,Direito,2.9
+6757eb62-c387-410f-afb1-5135b735ab66,Ciência de Dados,6.2
+490d685b-f6f9-4361-8048-45e906302c9e,Engenharia de Software,6.9
+24a2b9ae-ae03-4b33-9b6e-9e96dbc63e60,Administração,1.6
+c554cf45-84f6-409d-8a55-72ea7a81fb82,Ciência de Dados,2.3
+1d6f0ad3-3f6f-48ec-956f-892401e35dfb,Ciência de Dados,4.4
+63934d0d-2020-4c60-830a-8a3d331b05ca,Engenharia de Software,4.0
+2bc9ee48-184a-4f23-b916-ab3fb158d68f,Administração,9.1
+2bf71022-dd09-4f0c-ad1e-f458cdcad5b7,Ciência de Dados,7.2
+3b4f911c-cef6-40df-8007-6e7e3921d28c,Direito,6.5
+51674d4f-0d2b-46b3-868d-444e8a9ef641,Administração,6.8
+d1b64aae-52c9-4b07-b2a5-123a996585dd,Direito,1.4
+ed9ed359-23f8-4a34-9dcf-3cfe1599d48d,Direito,10.0
+44de2945-4a17-4c4d-b2a8-c3ef3a14a882,Ciência de Dados,8.9
+678a017f-a89f-42e9-bf3e-baf39dc3c826,Administração,3.3
+e796bf04-05d4-4542-9c98-ad602dd7910c,Direito,6.6
+e2ab6419-db47-485c-af3e-9bf21d304a8c,Engenharia de Software,9.8
+04847d7c-89ae-42bb-881d-71cde568f48d,Direito,5.3
+a4d84ba5-0d18-4b0c-9868-f948a7562c4a,Administração,5.8
+68996568-cff8-441f-b4a9-f0f887adb651,Engenharia de Software,0.2
+77ea593a-ffab-4645-8126-747629b2aea8,Administração,4.3
+30d5ba22-169e-44b1-9e14-d7e77aa9be3d,Administração,3.8
+806bb90a-f9c8-4919-a62e-df2d4d732471,Direito,4.7
+f262fce2-9072-4404-b525-770c608c362e,Ciência de Dados,0.8
+e6537825-b349-4c32-a8d2-4e939a0a0eb6,Engenharia de Software,9.6
+b1dac966-2f11-4e7e-9de7-77c54c4abf88,Administração,7.7
+468a8c64-e4e0-43fc-9511-af74f317d0a7,Engenharia de Software,2.7
+4c84b375-43ca-4a42-b581-360f8896548a,Ciência de Dados,9.5
+24db0404-6ff0-4197-81b7-c440707bf060,Administração,0.3
+ea4f8b99-7283-4da8-abd5-ab5bbd5b0c17,Direito,4.1
+6427010d-6ffa-4937-b468-49a6cd190c88,Ciência de Dados,5.3
+a7350afb-78f1-4c4f-a4c1-a134f004fb68,Ciência de Dados,2.4
+da7104cd-c6b7-473e-ab7a-a912e84700d3,Administração,7.3
+669d02aa-a799-4c3c-bd25-e7a069d82655,Ciência de Dados,8.8
+12813618-447d-489e-bd91-417a3ee685ce,Ciência de Dados,9.0
+79c99ba2-5370-4231-a44a-fb0bd5f49c23,Engenharia de Software,3.1
+3af29e30-c711-45d1-91b6-792193ddb2ed,Engenharia de Software,2.4
+067ddb46-29d1-407f-87e9-427ed44eca34,Ciência de Dados,6.0
+0f97c3ae-b13f-4b27-8020-84c794002b84,Engenharia de Software,7.3
+f466fb37-147e-4c4b-9c4c-1aaeb47b52c8,Ciência de Dados,9.3
+2842c9e0-de22-4149-9478-36c7168d0df8,Ciência de Dados,3.0
+34ea6402-6a77-4b58-b798-0abdf29f4cf4,Engenharia de Software,4.0
+d7abdf5e-b814-4a03-9cae-c917aa51e50e,Direito,2.9
+4eeba380-80a4-403a-8eb5-1883b97e65b5,Administração,6.9
+08c1cf33-48c5-4c26-852d-fa75dd5d0af4,Ciência de Dados,3.3
+3ce8123c-e289-4ab1-9bd1-f7610b00ad99,Ciência de Dados,8.3
+08b50de5-dd8f-496b-a9f0-da65d1757ee5,Administração,10.0
+3bd507ba-4291-463f-b1b8-0f2703b8a94f,Direito,1.8
+65af493c-4d72-4c5e-b362-7556ba19ff2d,Administração,7.2
+966f8636-5c3a-4127-9cfa-549aa776fe08,Engenharia de Software,5.4
+33d9218d-3c2f-4f8d-b30f-d4f6e7cf550b,Engenharia de Software,8.6
+c67e4cfc-e55c-4f39-adc8-8427d5a882b3,Engenharia de Software,7.6
+0e0fa5f9-7dc1-4efa-8f91-0959c20732f7,Direito,5.7
+1085f685-59a4-456a-8996-e4b96f94aa24,Direito,4.0
+9ac12496-0dac-4f48-920f-86c508dfba6d,Administração,3.5
+82be4b6f-1fe7-4648-bbe5-cdbff61a6797,Ciência de Dados,3.6
+28ba750e-2620-402e-ab21-41ec5409ec99,Engenharia de Software,5.0
+7a10d6e4-4434-47c0-b986-bc8b8b80bd15,Direito,5.1
+cf72aeb7-3296-4195-a58f-55511627b11b,Engenharia de Software,6.2
+c3148c94-0fb0-499f-87eb-1e7798f3a131,Ciência de Dados,5.5
+9f2be9b1-7f96-4055-b1f6-049a585d7cbd,Engenharia de Software,3.9
+b6c239d5-65b4-4000-9403-cdeb3262b57b,Administração,1.0
+c1e79bb5-2ee0-44ff-afd8-7d3a87af4015,Direito,4.2
+60e0cfad-80f1-413a-a195-cabbf9de6e9d,Direito,5.3
+96685a47-63c8-4213-8def-40cc46f145e3,Direito,4.2
+1ec55298-f0fe-4b0f-beeb-2aa08a95d321,Administração,0.5
+8633e638-25b8-4017-b552-10b325b2aa91,Administração,0.5
+71a61544-bdbc-4d83-a947-cb362d07a8f5,Direito,5.2
+a29091e0-c5f4-4156-bccb-07cdebdf0983,Administração,0.5
+3ee5197b-5e60-49b1-b18f-3de4d489aafe,Engenharia de Software,2.3
+e0ad6c05-03c0-4fa9-a6f2-dd4ca35ac4a8,Direito,5.8
+66b52680-a56e-4486-9f41-559c4d9de072,Direito,8.5
+04e336a4-d655-4146-9c9d-a28d6ce01bc5,Administração,4.1
+91653231-0a8a-4ef4-a118-eafead0f9151,Direito,3.6
+516e8279-3da7-4cc0-abeb-ed0eb4c484f7,Administração,7.1
+a41df809-3790-4275-b085-e61b519db024,Direito,3.6
+39929f50-ae6d-4b58-927f-be5880d01508,Engenharia de Software,9.3
+a6302e21-2634-46e5-8e06-da2fbadf37f3,Engenharia de Software,4.2
+184e3069-d804-456a-956b-7626e874cf2b,Engenharia de Software,4.4
+942e4f70-75c0-4e1b-8d0d-bbe4b34d02fa,Direito,3.9
+72cdfcf5-8b3b-4700-816b-ea0da5d09a27,Engenharia de Software,3.2
+8e451b84-1af2-47c7-b1bf-dc5a3a4074f1,Administração,2.6
+e411844c-3b91-4193-af79-648e5eb9aa0a,Administração,7.8
+3fcb6526-9071-438f-8b89-5296c717ae99,Administração,9.9
+fa341d11-eea5-4147-bd5e-c295c6bf2612,Direito,6.7
+1006dd3f-5463-46ac-a115-94a9467f323b,Engenharia de Software,6.4
+e93ac681-4ca7-4399-bab2-8b8237ab93fd,Ciência de Dados,3.4
+625eea08-5583-4f0d-a44b-0422bbf128f9,Ciência de Dados,6.1
+6b6073f5-6ea3-43b4-b2ad-a84e94ac8eea,Direito,2.6
+159d0c2a-c86a-4f57-991a-d3abf447ffcc,Direito,0.3
+d66264c1-bca0-41cd-b134-16298721d90a,Engenharia de Software,1.1
+766e4904-e850-409a-9a08-75d51ab33060,Administração,6.4
+9e250431-064f-4f5c-8e13-ba1307e54cd9,Engenharia de Software,4.6
+7f17333b-5adc-466c-8436-5968367dcc73,Ciência de Dados,6.7
+447f89e8-922f-458c-bd0c-3fd4ce48ffff,Administração,5.7
+fcca1ab7-674f-4312-a9ec-fc616c68924d,Direito,9.5
+ddcd0a11-bc3f-4f4b-bcb0-120d82767f00,Engenharia de Software,8.9
+c1482d1f-79c4-48d2-b524-7f4b1fb0a93b,Direito,0.6
+553a7513-873f-491d-a337-801cd3aff94b,Administração,7.8
+c4d8d580-f9aa-418b-b0b3-43bd6790bd01,Direito,4.3
+80cd34bb-7d73-4d11-b7b5-82b305f81b33,Engenharia de Software,5.7
+a61f1b71-60ea-458d-9422-440efedb3a13,Engenharia de Software,9.2
+91a97ee9-79e6-4fe8-9fa1-0c69002a3267,Engenharia de Software,0.8
+765e3f1f-b8d9-423b-9318-56cb4ba6ae64,Engenharia de Software,9.6
+1965046d-65a6-4a43-9654-39f142fb37f3,Administração,6.7
+4d21a92f-20af-4700-86bf-cc74018f8f36,Engenharia de Software,3.1
+b3687cc9-140b-442a-a5e8-119bb1d6469a,Engenharia de Software,1.8
+59b19aa4-9c1d-45b7-959e-369293b4cf25,Administração,1.2
+ed386cee-71c5-4dbd-8e58-4e41bbceaa1b,Administração,7.9
+9c5c894a-2027-48d8-99b9-ffb194423fa7,Engenharia de Software,3.4
+cb82f2fb-bae7-45d3-ac96-4dd5861c1517,Engenharia de Software,3.8
+afabdee7-2679-4060-9052-a064edb013d1,Direito,3.5
+fdf5d114-62de-4339-ac2d-8357798a994c,Engenharia de Software,9.2
+7ad8d369-82f7-41b9-b84e-6afff97e4058,Ciência de Dados,9.7
+33975776-1266-45b6-b652-51e52711d23d,Direito,1.2
+c021424e-bdfb-48c4-977c-fa4e017d4a48,Engenharia de Software,0.7
+96d3690e-7a42-4220-843d-ad9ea5ff09ce,Administração,2.9
+75e88578-7751-4f1b-8ceb-f200eccdbd0e,Engenharia de Software,6.4
+a26b0b5c-0e01-4165-8303-c8b98dbaa321,Administração,2.3
+86b2808c-04a1-4314-82f2-ca4a770d4d42,Engenharia de Software,5.5
+1c211817-49e0-4251-9d0d-5563c6370561,Direito,3.9
+bb3b3964-c153-49d9-b44c-e0b54ea5fad1,Ciência de Dados,2.7
+c35e59a3-8cc3-407d-aae4-20a626e27338,Direito,0.6
+50cc3186-79a4-42a7-8ce6-091b7ebda85a,Ciência de Dados,4.5
+2fd47f04-f3c2-4ac4-aa14-dce445fd42a7,Direito,0.5
+75716851-f26d-47da-9204-0bfc594fc5a8,Direito,7.6
+c6bcd644-58d4-4b54-9c53-c861a99da70b,Engenharia de Software,0.8
+74f2f184-8c48-4a8c-9c18-f4924051b5bd,Ciência de Dados,7.1
+1648453f-ee49-45f9-ac8e-2ed4a6fd4d33,Ciência de Dados,6.8
+4d9b2a67-18ea-4951-a974-ceeee98b1954,Administração,6.0
+a883a52a-a44d-406a-b119-0128c7e7bd23,Engenharia de Software,0.2
+e45ef1ac-7ad8-4d6e-a3a6-283434513b59,Administração,2.9
+26d18898-37cd-472a-b008-0f97c6060762,Administração,6.0
+27496fd2-5f23-4bbe-8970-727df1b213a5,Administração,8.2
+175c33b6-494c-4626-bc1f-bc485254489e,Direito,0.2
+d71c7c4b-8193-42e1-ac34-c4e953d72ce9,Engenharia de Software,9.1
+7594ccf9-65a9-4b7a-992e-eefa959f8dc3,Ciência de Dados,1.8
+9902ebc7-1fa7-4fc4-9f3d-74887afac6cf,Engenharia de Software,5.3
+709d6b34-172e-4c85-84b7-bdf955efe2db,Engenharia de Software,6.8
+2062a052-78bc-43df-bd7b-ae6ccc911086,Direito,4.3
+9dcc9e88-78d1-4c1d-b600-923548144386,Ciência de Dados,5.6
+ff1c6c6f-a386-42fd-941a-782da7b467fd,Direito,1.7
+64f58b87-73a3-4964-a4ed-a296913e97fe,Direito,2.6
+1cd28333-206e-43f6-893d-1d6cc40f3eee,Engenharia de Software,0.0
+00fdf60d-2a25-4b96-bdf3-ca0c5a4e5267,Direito,0.2
+49829d74-39f1-437f-a392-061368c7de09,Ciência de Dados,2.3
+4609103c-dbeb-4f7d-8024-6cfa485b8f13,Administração,6.4
+ec2c4d3f-e58b-4c7e-ba4e-f3fff71d88d8,Administração,7.7
+5bef6718-932d-4efa-a3ae-1ae681324593,Ciência de Dados,8.5
+f3175096-af79-4f35-879c-d6dd46adf948,Engenharia de Software,0.9
+ef5d3f32-5e79-43ce-bb01-c45eddd02bec,Administração,6.3
+c1061fbe-bc31-4be7-8491-edb0948cc9bb,Ciência de Dados,8.9
+83e7c4fb-7c0c-436a-8950-b44379526de1,Administração,8.0
+f34c22a9-974f-42cd-ab9e-7575c7074e6e,Direito,2.7
+81248fe5-4756-41e4-8d1c-b83485ff5b8d,Ciência de Dados,10.0
+c9f6d8a6-1044-4baa-99d1-66412ff8c9ff,Administração,0.2
+7485e468-2f23-4c97-8d1a-ddce0b5b4968,Administração,9.8
+ed6dfacd-a5ac-4ec7-b804-98712cc27a6e,Engenharia de Software,6.4
+e35f962d-8261-4443-8ed5-6f29963ff2cb,Ciência de Dados,3.4
+dfa98d19-21e2-4af1-905c-730a0372a753,Ciência de Dados,8.3
+2197b4c5-5057-45cf-b7e8-2a972072f96f,Direito,6.5
+a0b3c151-6c84-45d5-99cc-dc8902efc4ec,Administração,2.4
+8b694ce4-a9c8-4f5f-b535-62b520aa1951,Engenharia de Software,0.9
+1df44ab8-0d27-463d-9997-1885a65ff225,Ciência de Dados,3.7
+3ca94858-75a8-46c6-b8f5-ac587e30ac91,Direito,0.7
+a782394c-5e5d-46e6-80f7-efc0abbd2981,Administração,1.3
+6845d3a7-ad6c-4be0-a8a0-b7ea1b0f2307,Engenharia de Software,2.1
+1d58ee09-a813-480f-b840-88df52b1181a,Administração,8.3
+a9815dcf-54e1-4722-b557-8d560d2dcfce,Administração,7.8
+d0724b42-ab37-45ea-9d8e-1749e1da7e4a,Administração,1.3
+dc05e3c1-0285-40ac-b839-6189dc7279d9,Ciência de Dados,10.0
+bc438310-e849-4585-aa55-193564767661,Direito,5.4
+af09af7f-cfbc-40e1-9842-d1281b3903d7,Ciência de Dados,5.3
+38dfde5a-ecf4-495c-aead-b32085c3f0c0,Administração,4.1
+967f0105-cba0-4101-9d5b-89747ea7e6d8,Engenharia de Software,1.5
+67920093-a301-4a0e-b935-18c0613efc46,Direito,1.5
+f852f612-dba6-47a6-8378-3da991d4aa3a,Ciência de Dados,8.6
+1410620f-d575-4540-aa88-059df8b4bd2f,Ciência de Dados,1.9
+764e9d52-99da-48a6-aea8-0202d17d3ced,Direito,4.4
+288f6bb9-63be-4c73-bb76-5461c7d44abc,Ciência de Dados,1.5
+a33893eb-7eef-421b-b59f-58b610931117,Direito,0.4
+77131d16-c40a-4c92-9fc3-650705f174e5,Direito,4.4
+33fd271b-1b51-495a-80ff-1d38d10d8342,Direito,8.6
+28e00371-2b06-4594-afb8-7aca078d1c38,Administração,4.9
+675e7dcd-92ca-4a52-9eee-ae111e38bfcc,Ciência de Dados,0.9
+102f69d7-ed1d-4d0b-8413-db93ae9dbe2a,Administração,7.2
+b71ca542-eee9-436a-a9ff-c236a2bcc65e,Administração,0.4
+9ce62dd4-da93-4143-a88f-80030ed189e0,Engenharia de Software,1.4
+6e508532-9fcb-40a7-8492-44ca57a4d9e0,Administração,3.9
+827c386a-70e1-4a9c-832c-0e860536ef03,Engenharia de Software,5.9
+7ed73931-80ce-48a1-b4a3-495260261b8d,Ciência de Dados,0.4
+f1ec2666-47dc-458e-8747-815400a1bb20,Engenharia de Software,1.6
+c22e59b2-9e8d-470b-be53-57db350e6e7a,Administração,6.8
+249ee73d-fda2-49bd-8be8-2b2dbcc12686,Administração,9.6
+06b183df-d395-40a9-a8a8-6c01d4a78102,Direito,0.3
+72d7a9a8-0b41-4847-bb08-fcf1a27b3963,Engenharia de Software,2.2
+c2006d1d-890c-4f63-8c66-ce8ea6e8df32,Engenharia de Software,7.2
+78f905d4-9cf4-4604-9b97-55194897c05f,Ciência de Dados,9.4
+68756a0d-78db-4d7c-9ba1-e2a7fcd17159,Administração,9.8
+2df443e3-0890-4c02-9dd3-9e6b30a13507,Ciência de Dados,8.3
+ef76222f-5bd1-4cb1-a596-b9121947e769,Administração,8.0
+4355053c-bcd8-4acd-964a-7f6490e310a4,Ciência de Dados,7.5
+cdb5f991-4249-4065-a5a5-a5c067ad9876,Administração,5.5
+8bd27528-aadf-43f5-aade-881575ad5cf5,Engenharia de Software,8.7
+1d4e543e-4214-4115-ad14-470e3b67dea6,Engenharia de Software,2.6
+f3be0edd-725a-42bf-9529-c2ae123e25a9,Ciência de Dados,6.4
+671ca19c-3b37-417e-908b-95e3e5258a06,Ciência de Dados,6.3
+83b67dc4-5b0f-4663-9682-54f38baa17da,Administração,5.7
+85f9335e-9230-4dc2-b27f-e2cccb9140f7,Engenharia de Software,9.6
+67ffcf83-ddcf-4696-8ce9-712db0012aa1,Ciência de Dados,1.1
+795d3ddb-e917-41aa-84c8-d755b2ce4dfb,Direito,7.8
+5cbe85c3-4071-4153-8d7c-7f35ff865561,Administração,8.1
+cce2f5e1-544e-4b08-9ebd-ebcc56c5ada5,Engenharia de Software,5.4
+fdd3973e-1088-4d75-ae78-7cf0e11de406,Administração,7.7
+1ef6a781-8bed-450b-9113-185992f31476,Ciência de Dados,5.8
+1031b39c-fd29-4b3f-bf6b-6c1e5fa85667,Engenharia de Software,1.4
+2dbfa0c6-80be-4c89-a12d-0826d299b221,Administração,9.2
+b945b1c7-670b-49b3-baa6-d19c053b34cd,Direito,10.0
+eedb7c09-b516-4b9a-8a2b-575ad4667066,Engenharia de Software,5.9
+57a1b803-20a9-441f-899d-a74cedc57c39,Ciência de Dados,8.5
+733448bd-0599-4b96-8f8e-a7628674f83d,Engenharia de Software,6.2
+cd5bfdc2-ea0e-447e-b986-b93add8e6f6b,Direito,8.9
+8632ab03-8caf-47e1-98fd-305e4b1ac57a,Engenharia de Software,5.6
+4ffbcec2-a8ab-4841-96be-bf3f65a8dd18,Ciência de Dados,0.2
+18094bd2-db4a-4989-a75b-d98d9149b3f2,Engenharia de Software,2.1
+62b37279-5ebb-46b0-843a-ecc8a243398c,Ciência de Dados,5.6
+cdbb67a8-4707-42ef-b339-07573345e086,Ciência de Dados,3.6
+29ce99b1-e011-4b89-aa5a-f451bd1a01cd,Ciência de Dados,3.0
+146ed051-bd5d-4ad5-b05d-c01a1c6d292c,Administração,4.7
+8597a171-b289-436e-9b0b-5be4fdbbd1f0,Engenharia de Software,5.1
+e3851f2e-4bed-4052-840b-beb06cbedf2e,Ciência de Dados,9.4
+d4474e7b-b6a3-4ac5-a972-be7c92506149,Direito,2.5
+e32d26df-fcf9-48ac-be58-ef6914ac4d78,Engenharia de Software,6.5
+628b3595-d654-4bea-b445-73cc7ba0233a,Direito,3.2
+e8a78ea4-15f4-4142-a456-565e0a3d6d51,Direito,4.4
+d3371a9e-16d0-4d69-b936-798d8648a69f,Ciência de Dados,0.8
+c330c89f-d470-46f4-8172-148490691bb0,Engenharia de Software,3.4
+f8c4bc29-1b71-4c5f-bcd5-be87adf6c558,Administração,7.3
+939e9fef-b64d-4093-9832-e4fdba9ce190,Direito,5.1
+a583c84e-9c12-4f03-bdf8-34b59d1dd115,Direito,3.2
+25dc95dd-3278-466c-b031-0c5ace8390bd,Administração,8.8
+76997754-cb7d-47c4-9991-6a6b187c10c8,Direito,5.5
+ae48ed31-0d6e-48b4-9547-517cfad8e99b,Engenharia de Software,9.0
+42208c1f-ac7a-42fe-8179-d4ad63316d94,Ciência de Dados,9.2
+4a38d39f-0163-4fc7-900b-9703703b1cf6,Administração,5.8
+66c73764-cc5e-457c-b725-2967f42391fc,Engenharia de Software,5.3
+65e7335b-53b0-401f-9c23-dbf4ff14884f,Direito,1.2
+10ecb5ad-71a5-4c34-8653-af856396d438,Engenharia de Software,0.0
+aa73b039-1b39-40e5-9b9e-84857733f1cc,Direito,5.1
+59bde454-598e-4622-b115-0e3d8946fa80,Ciência de Dados,4.4
+410204f2-9e3f-4e22-a056-0ebd7d6b839a,Ciência de Dados,0.6
+a260a8fd-9f04-445a-b05b-6b40abb373c0,Administração,3.4
+6d0977da-5a50-4e6c-9369-830e47a9e91f,Direito,5.4
+74e97053-54ef-4b32-ab38-e460e6ba637d,Engenharia de Software,8.0
+067dd00c-f6fa-4af4-b477-e8beb70d6e3f,Engenharia de Software,6.0
+33ee5ab9-5b68-4cb8-bc96-e26ae02108ab,Administração,8.4
+f7e7d9fe-932d-4c32-82b8-b2e73cf74bb0,Ciência de Dados,8.2
+ccc37375-1aec-4e68-b352-4f61eee209aa,Direito,9.8
+b4ac3590-2b8d-49ad-a4fd-5e4b97000695,Ciência de Dados,5.6
+33a2372a-dc0b-4a78-8850-8888b26b25f6,Administração,4.6
+b63ce5f1-3d23-4a30-a1b0-4d41e35522bc,Direito,5.4
+8010b65c-33cd-4daa-a8ba-3fbad9103a9a,Administração,6.5
+c6ea40e4-48f3-4d95-a402-a2e0df71a6bb,Administração,4.5
+7c4ff636-b014-4814-aa39-07ca6c664d4d,Ciência de Dados,8.8
+b73fff2c-0b40-4d7f-82b7-fc9a1e140685,Direito,9.6
+146458bc-3c64-4dfb-84d0-7c8f5c1d2530,Direito,6.1
+faa3f9b3-ea80-41da-9d73-0085d7e1b98f,Administração,2.0
+7742c536-36bd-4ffc-9ea2-de990e8d34c0,Ciência de Dados,7.4
+ed3c827e-3f6e-4ec7-9c1b-281c58e17fee,Direito,4.4
+fda4dc78-46ff-4c5e-b737-014efcc3e0f7,Ciência de Dados,7.9
+74eefa8f-bbf1-4332-979d-a42c050237cb,Ciência de Dados,7.4
+8b9272c3-9ef2-4a56-ac63-745b9b5d48dc,Ciência de Dados,2.2
+7c1c0a86-4f1a-43f9-9593-446779a8497d,Administração,0.2
+69149fb2-cdfa-44e2-b645-0878abaa45c7,Engenharia de Software,5.1
+0b92f968-40f2-4063-a290-c6c1d6998051,Direito,8.5
+efb65610-7937-4317-a336-c72606e2bf7b,Engenharia de Software,0.4
+3c301809-4ce7-49a7-bec2-bcf54fee48ef,Direito,9.7
+673d559c-91ec-4317-ad7e-e1125fc81461,Engenharia de Software,4.6
+b1d8c2df-6f82-4203-bfaf-2bc6a01f638f,Ciência de Dados,3.2
+54b1d665-323e-4a51-9d4e-6c3a8043a538,Engenharia de Software,1.0
+2b76b2c7-7da6-40ee-b49b-049d2b930883,Direito,1.6
+4362a85d-1584-452e-9be9-58e2bc3d2d5a,Direito,5.1
+d2a2a9dc-e17c-45d3-b120-12e9986dde36,Direito,8.8
+99664133-54ad-485f-b445-d6cdead19379,Ciência de Dados,9.5
+c7d9331d-2023-4e1b-b924-87ff7885aa0a,Direito,9.2
+dfe3e709-5249-4b72-82f2-018f941c4bb3,Direito,3.6
+8501e3fe-60ba-4553-a37d-3ee4dd21dc60,Ciência de Dados,5.1
+6ed474a4-a0aa-4703-81df-eca971d25b03,Engenharia de Software,2.3
+5b0e0436-9721-4ffd-b374-8911e6822a5f,Ciência de Dados,3.6
+09845ef3-3819-4123-8a1b-492bafdb8eac,Direito,3.1
+f0399ded-1a2d-46a9-9949-8452afe39519,Administração,9.7
+746cdd1f-45e5-48e5-9dfe-381e04a67d68,Engenharia de Software,4.0
+0a390d52-48f5-4449-a3bf-3a6d4871778c,Engenharia de Software,7.0
+fd742445-049f-4e1b-9242-d8f7428f5a5a,Administração,5.8
+90471644-0166-4e4b-8fcf-cafd43e73904,Administração,7.1
+e72ad4e8-11ae-4676-857b-af651fdf9b8d,Administração,9.4
+d8b8a7a8-88d1-4c59-af2f-3d6abcef1627,Administração,0.7
+c733d504-fa0c-4d27-b0f0-111325469c50,Administração,4.4
+72c96e44-0f9a-4b1a-af1e-7cad36700419,Administração,2.4
+424e40b9-22f8-48db-8457-28a9e665ad54,Engenharia de Software,6.5
+2b270226-56f3-4f97-90d3-5f6e210af3f8,Administração,0.4
+8d35cbfc-52bc-40db-8580-7ce613c86a7c,Ciência de Dados,7.0
+8ab23969-b250-4f78-a424-434a48f780a1,Engenharia de Software,6.6
+e616f476-5565-421b-bb9a-cf68f68d72b7,Ciência de Dados,5.8
+8a2f27d9-0cfe-474e-b2ca-d16c62a5450c,Administração,7.1
+ed4a787f-501a-4fcb-826e-5ebc3404bc20,Administração,6.9
+e481561a-dea4-4f6c-a4c8-17303a379822,Engenharia de Software,2.0
+1daa81bf-e191-4b2b-9592-b0bea92a8b3e,Engenharia de Software,5.7
+31e46a3f-5dc7-4c5a-937d-964c3c8e2248,Administração,5.0
+d7253d35-a065-4848-acff-7159f645ee7a,Engenharia de Software,9.0
+e6ab2e8a-c884-4047-a3c5-dd0377e0b7df,Ciência de Dados,3.6
+660a05af-4c75-4434-b54b-f9afee80236a,Engenharia de Software,9.0
+f32d535e-9577-475e-baed-071cc920f98d,Direito,3.5
+7bdbe4e1-d52b-475b-ab24-edf69f40d53e,Ciência de Dados,2.6
+4d287293-d57c-45bd-813a-5ed92e0a7747,Administração,6.3
+1dae64c3-645f-4bbd-ac28-473d93f2ebda,Administração,4.9
+168f2d7c-8b86-467f-916d-b2a28773a091,Ciência de Dados,0.9
+27322efd-9fd6-4f4a-bac6-226a5ca1b66c,Administração,2.4
+da3cc0e6-e2dc-4243-8acf-e3edcae26eef,Direito,5.6
+85f9658d-7a16-49a8-9e2c-2b555fc824d2,Ciência de Dados,7.1
+56df8eca-dc11-43e1-becb-732cde280d59,Ciência de Dados,8.5
+f12e9252-3966-46a0-89f5-3ba4250b6452,Direito,8.4
+2a9def25-5fcd-4a89-a499-d6be9ffa3de4,Direito,2.8
+532e68a9-18b8-47a8-b53e-abe770fc6b42,Ciência de Dados,2.2
+5ba2e77f-f733-406e-a634-6a309660805b,Direito,5.8
+ca59e214-54db-41c0-ac59-0a7c8da5ada7,Administração,7.5
+66233a29-c8ad-4962-b0cb-809a307f4827,Engenharia de Software,6.7
+31a1a510-288c-45ff-aba9-e28519aee73a,Engenharia de Software,5.5
+5d984997-13c2-4be2-bec3-496eafa15e05,Direito,3.5
+02b79347-f919-42e6-bd50-5bc15e0e2563,Administração,2.5
+f7abd5e2-6cc3-482d-b925-94e25146eda1,Engenharia de Software,6.0
+0c4d00e1-bda8-487d-8b99-632e99eb7650,Direito,5.5
+ccdfee1e-f953-41f9-9874-16cc8f915886,Administração,3.2
+1f1ce01f-822b-4a39-a9d6-c24ee3ac3db9,Administração,7.9
+d9291051-9a0c-4a33-ab9f-72023f7547b4,Engenharia de Software,8.0
+cf2e5ea6-422b-4493-a5b0-f30d2e4cc58b,Administração,7.8
+46a0146c-5fd0-447f-8e1d-50b2a09262c7,Administração,6.3
+645ec662-9c86-403a-b783-2f9fee4f4661,Administração,4.0
+f4f1b3c0-daca-422a-8a8b-0caecf42668f,Administração,9.2
+c32f59b6-e931-473e-865b-4a6e164199e6,Administração,2.4
+2e13f2dc-4b08-4d3b-9d45-eeca9119e10d,Engenharia de Software,9.2
+a9e7cdea-94c4-4b83-9522-373cc61a15cf,Administração,3.4
+c3ee0b9e-3478-42cf-a6e3-2e01b2c93101,Engenharia de Software,3.3
+2d1e8f87-e144-47ca-82ce-1410a4bc08f7,Direito,9.7
+1a65f1b7-e89b-4dd8-9618-043ab3af9d7a,Ciência de Dados,4.5
+1f87c454-f46d-4d24-8bf1-8b774e904223,Direito,3.8
+24820391-9f2c-491d-b10a-4f66fae41120,Ciência de Dados,4.6
+3fd42877-56ec-4414-803c-90f01a9562db,Engenharia de Software,9.2
+72841cb2-d3fb-453f-bdbd-7ef0453862f0,Administração,8.0
+7436aa49-d822-4577-bcbd-876a84bf7a77,Engenharia de Software,2.8
+5f1e5176-bab3-46ae-92b9-e70d1c6f6db4,Engenharia de Software,6.7
+c32c781e-f9e7-4643-9ce7-0dec932d1df0,Administração,7.6
+e6e7b60c-38d5-4560-945e-7eb232f93a3a,Administração,7.6
+544f00dd-4842-45bb-a301-a9675ae6c88b,Engenharia de Software,7.8
+58d68d95-eba0-4879-bf54-ab5e1b5d1e19,Ciência de Dados,8.5
+2e1dff1e-39c1-4fe9-9fcf-e2e19dc202a4,Direito,6.8
+9ad4002a-e48e-4407-94a6-a5396686ed7b,Administração,5.9
+c1fdfa45-49cd-4b13-850b-687010a44192,Direito,6.0
+d687cb8b-0f13-44d7-99cc-f772e214380e,Engenharia de Software,7.6
+5f44cb5f-544c-4006-8db9-fe838c652dab,Ciência de Dados,9.7
+da5af131-60b4-438c-8da6-2e7e61e81348,Direito,5.7
+594f9892-441c-4951-975a-bc2cd4e78751,Engenharia de Software,10.0
+1c055359-9c58-47cd-89c9-cf2d87678acb,Ciência de Dados,3.0
+e67fb6e0-71d7-4cb5-b369-a13577d46734,Ciência de Dados,2.7
+555442fe-694a-45f0-ae29-13b2d8b1c88f,Administração,3.1
+8743f1c9-0e82-4a96-bafd-05403d910ac2,Administração,4.7
+55404fba-8a2b-4069-967b-c41b00780d8f,Ciência de Dados,0.1
+2adfcace-8b86-4b8d-bdb6-36e1fb0dae87,Direito,7.2
+8994d167-f8c5-469b-9b2c-dfa4fbe43a8f,Administração,7.8
+2182df0b-6adb-4414-b7ee-2fe6951cf9a5,Direito,8.1
+754b07c0-dacc-433c-9eec-9c265006df15,Administração,4.3
+238454f6-b979-4b43-a231-90d5af956f6b,Administração,4.8
+66e274fd-584e-4335-8f5c-4721608707ac,Direito,4.9
+5e20b9ec-2a5b-4214-84ab-72f25cd1017f,Direito,6.5
+c65af615-ed02-4a3d-a030-46ec772a09a5,Administração,6.8
+d370b860-0fdc-435d-a9bb-18ed44a1391c,Engenharia de Software,8.3
+a097cb9e-1a3c-463f-b9d3-292122cd065d,Administração,8.0
+ae78c352-1132-4623-b919-5722d55760f5,Ciência de Dados,1.3
+01df0e35-20b1-460a-af08-8ea038575e7e,Direito,1.5
+2f808363-c1a5-45a8-8fce-6fe878b158cf,Engenharia de Software,8.2
+2732c2e3-f6d7-4034-82ad-9b85de71b6a3,Engenharia de Software,3.4
+6e6f2ac5-ae45-4474-8222-2279ed55694a,Direito,0.7
+bb14f98a-86ee-4862-8eb7-ec0df72be914,Engenharia de Software,9.1
+4a006c31-7d8e-4042-a81f-c69bdb59313a,Administração,1.7
+6a0d5a5a-6640-4b28-8ab6-82828e86a817,Ciência de Dados,9.4
+56a44ba5-c14d-4401-be69-5778de9130e5,Ciência de Dados,1.5
+960bf70b-e970-44b0-9c1c-73298b41fb8c,Administração,2.8
+73d46340-9e99-4740-bd64-4501775cc3f5,Direito,0.7
+c1f05bab-ae7b-40db-a5ab-75ca18a4c4cb,Engenharia de Software,8.5
+710314ed-7fe6-42f2-86f6-046a4e12752e,Ciência de Dados,2.8
+ab8858d8-be08-42bf-9dbc-eb08548cc3c2,Engenharia de Software,0.9
+3a93854b-464c-44ea-bfa8-6a9075ccac96,Administração,5.8
+fdfab67c-809f-4dd9-80ba-b04868e1900e,Administração,3.4
+1d26f12b-56ef-4726-b27c-cc4364dcad67,Administração,1.2
+4af133f1-0fa7-4f0b-873d-4fdc261876f2,Administração,4.4
+b12b4734-515a-4355-be4d-0fa4baf4f224,Direito,5.7
+d5c04d09-88f9-4863-bc28-5f98e09524ae,Direito,1.9
+247d83af-b9d7-4148-b699-4e3d114000cd,Administração,4.3
+22bb0911-5693-4b7f-86bb-f0bc848dcd90,Direito,0.6
+b5d27d0c-9a12-44ea-9c20-f7ed4e8e9540,Ciência de Dados,5.1
+e98ef5ae-f459-405b-acb5-ac0ac8f2d17e,Direito,9.8
+a900f2c0-0fb9-4bcb-bc2e-229d141c0985,Ciência de Dados,0.4
+339de5fc-076a-497b-ace3-5600ede2053c,Engenharia de Software,9.6
+7e9d3870-894a-45a0-9708-bcffc34d9c1f,Engenharia de Software,9.3
+ca3d4ddf-d7d9-4cd5-846b-938664f0e4d6,Ciência de Dados,8.3
+3f67a321-cfa8-47f9-bde5-82115fbac0b6,Direito,9.4
+1b0d3b29-758a-44e8-bd04-00249fcaed8b,Direito,3.2
+3d3e86f0-c3ae-49b8-b46b-ebd3bef78106,Ciência de Dados,7.0
+b62d2dd3-72f8-4996-8725-ef1b9e8f38c0,Direito,2.1
+b953e0c0-99a2-4b0b-9ad0-0f9d1051ad10,Engenharia de Software,7.8
+168487f3-9a25-424e-84d3-8ba095c6cad3,Administração,0.6
+4ecf58db-0bd0-4169-aa0c-0c62fa96c492,Administração,0.5
+d025479a-5048-488b-8f42-f443721d657f,Administração,3.8
+1f3cb7e2-1fc7-4440-b458-6bb7c06446f5,Engenharia de Software,5.1
+07e7d904-bda2-4df4-9cf6-97a45ee5d764,Administração,1.7
+67e6f325-d27a-4d82-803c-b8c5da45b413,Administração,2.1
+538aefb9-859d-474f-b566-37bd0d36627a,Administração,5.5
+52658f20-d799-4c1b-a550-eb80baa6151e,Administração,2.3
+eb154c17-c854-482a-9ad0-504dde2483c2,Ciência de Dados,1.8
+af913efb-ec93-4f6f-87c5-99621c0c2707,Direito,9.6
+d6e32ed7-9136-432d-9a70-4e1e19d369f7,Ciência de Dados,8.2
+da97bdb8-b53f-4fbf-9836-c695874347b5,Engenharia de Software,4.6
+8e07d497-9aea-4230-ad01-0d46b4fca8aa,Direito,1.3
+abd6577b-23eb-4020-a91d-a0b7fcc1c356,Administração,0.7
+f6850364-d782-483b-8ed1-39c8f1e097e0,Ciência de Dados,5.3
+3e662af6-e137-41cf-ac2b-b1786e4b95fc,Ciência de Dados,9.6
+7822c0b3-0236-4f6a-9a27-5de651d28025,Ciência de Dados,9.4
+bbf89dff-ea50-4008-9064-82ac494df48b,Engenharia de Software,9.8
+db611a03-0d4e-4c86-b8c7-ca0d6b14c8ac,Ciência de Dados,5.8
+c85f47f6-e46f-466d-b4f2-b671afada289,Administração,4.2
+cf0d905a-b9ec-4c2b-9c6a-f611de2e2c53,Engenharia de Software,8.6
+e5c43ed4-52bf-49d5-b361-decdc4b2e0ba,Administração,4.6
+8ebde38d-ebf6-4562-8d81-799ef4aaf876,Administração,4.9
+cc5a49c1-8032-420d-aa7a-0156909495c7,Direito,2.0
+6cb16cdb-f885-4bcc-b9e4-15b35c24b887,Engenharia de Software,2.5
+06c158cf-0b22-4d71-8535-99cc6ada8d1f,Administração,5.4
+a7639476-4012-4973-ba95-ad828bc0e72c,Ciência de Dados,9.2
+785e5925-3ac2-4ac8-9387-c9d7fb1e3d9a,Direito,7.3
+77e87e8a-ecd9-4321-9108-8ec38d182db5,Administração,1.5
+92513776-1b65-4a82-936e-656b2352e06a,Ciência de Dados,9.4
+b2d46aa0-9a13-49fb-9b59-7affbf2b13bf,Direito,9.6
+1c172732-6115-45c7-b723-d9d8ad6d7e1f,Administração,2.0
+ea7b496a-43dc-40c5-a911-ce680579a98c,Direito,6.5
+a82b035d-65cc-4a2a-bbde-f548c4163745,Engenharia de Software,8.3
+44fda2b9-054f-49bc-93c5-9cdae1467908,Direito,3.1
+8a5dd285-0a5e-4257-82e1-6a7118748ab6,Administração,6.4
+f406ab27-6a01-436d-a1b3-6ea74be59a03,Administração,0.7
+43f1bb72-8fd8-4443-9ea7-d93fcfb75b24,Ciência de Dados,6.5
+4d3490be-189c-4237-9345-3373b6df463e,Ciência de Dados,9.1
+5b0ed6a2-b6be-44ee-b6fc-d2b02bb3af27,Administração,2.1
+56b2b8a8-1106-4e5a-bd1e-ef9d4bc5e1e2,Engenharia de Software,6.3
+b8312252-9427-4b0f-9b02-9b1c816d6d0c,Direito,7.4
+95eadd6d-3c07-46b9-bb2a-a43eae2efa4b,Administração,6.1
+30485914-c876-423a-9850-a05e17608313,Administração,7.7
+a6a892b8-b67c-4ead-9033-95b9a83c5b42,Direito,7.2
+8c19f491-d628-4a10-90c3-4745c015aa9b,Administração,1.7
+c7e16179-248e-4a38-8e71-0aaa05459471,Administração,1.5
+6db6613b-60d5-4935-abe5-c0b32590e406,Ciência de Dados,7.6
+9fea42f0-a4fd-4bed-8ef8-ceeaf8ad3d80,Direito,1.2
+483a57a0-a129-4a45-83af-9bb00b4b5f87,Engenharia de Software,2.2
+d0ea999c-56b7-4dac-beab-8c0fcf444dfb,Administração,5.4
+36c66e46-861d-478c-a657-a8539fa13072,Engenharia de Software,2.9
+67dc09ee-a63e-470b-be3c-366834f7eeea,Engenharia de Software,3.7
+a6948b5d-6d1f-4d25-bf48-3fda0a99d809,Ciência de Dados,9.8
+c996b038-9d94-408d-81e8-d443b18b0a36,Administração,6.3
+312773d3-76d0-49a4-949d-140d3cc4f9d2,Direito,2.0
+d7e90645-9bca-4e21-9ac5-158964af945a,Ciência de Dados,5.6
+38c5b627-b054-40b7-a9a8-b92defffad6c,Administração,6.9
+86973d3f-5e63-4224-8faf-8704aca26878,Ciência de Dados,0.4
+9421c7b0-5786-46c7-9e17-73fdfafb3505,Administração,0.5
+eeb6fbf9-7b36-4750-93fd-189b756a6fdf,Ciência de Dados,6.3
+ced7e808-f67c-459f-8f74-d2e96de71d5a,Administração,4.5
+c8b27198-45fb-48d9-8099-442798129aa4,Engenharia de Software,8.2
+0e95c4a6-9ad3-4a8f-9b19-d6544e83502b,Administração,7.7
+87a523ca-0040-4c83-b602-81f491c3adb7,Administração,7.2
+3e11b61b-65ee-40fd-88df-e74427b961d0,Direito,8.6
+57cb41f2-0732-40c5-9cf1-1b7bce6686ec,Administração,2.1
+10fd91e9-eebf-4011-a431-77299892fe79,Engenharia de Software,3.3
+36185e40-a675-4490-a778-44dd1cd30e5e,Engenharia de Software,2.2
+6ab436e7-f1b2-40fa-ad28-7b4f2fe753b4,Administração,10.0
+c6430dda-303e-43c7-96ea-e9f177575b24,Administração,3.0
+28c71035-51a7-4888-9301-1968bfdd415d,Engenharia de Software,4.2
+fde6eb58-7a9a-4704-a8ae-66b716bcd406,Direito,5.5
+ff40051e-ac7b-4606-9ebd-e1d02f8b7d4e,Direito,5.9
+1002b363-3d50-4675-a9e4-aa829b23874c,Administração,8.4
+39d96071-b930-48ce-9606-90de9b503edc,Ciência de Dados,5.4
+7f0d5da3-ad22-4f3f-87ed-2fc185be25cc,Administração,9.5
+66af374c-b865-490f-a0c2-e0c46ced42bf,Direito,8.1
+d55d022a-7b77-4b44-a48b-445dcb2d5c5f,Ciência de Dados,1.0
+d32a3fc9-36f0-43ec-b8e6-909b58a5dfa4,Ciência de Dados,7.3
+9ddd7719-6dce-477a-b150-663ac15b37ea,Ciência de Dados,4.5
+c22373fe-cedc-4c72-9ec9-9d38ba4e2949,Direito,3.2
+8bc76fe8-b403-4fa1-b9f9-39eab442f793,Engenharia de Software,1.6
+0b86147c-7d45-4a38-b315-6181c982ee50,Engenharia de Software,7.0
+f5978141-b7a0-4858-bee7-5399e77f3305,Ciência de Dados,7.7
+07c850b3-77b9-4467-8b1d-6707da255e07,Administração,2.3
+99b06be6-5832-47b9-a3b7-282293210481,Ciência de Dados,4.7
+c2b30a25-0bf5-469d-b7c3-cb5770cd7641,Administração,2.5
+03058b01-9a52-4baf-922b-3616ebd7c66f,Engenharia de Software,3.0
+6fc8e41a-af75-4801-bae4-56cd70e109d9,Direito,0.4
+1e5f5925-8634-4646-956c-425b907cf8d2,Engenharia de Software,8.7
+c7083ee0-02be-4c8e-8b92-0c046cd3ceac,Direito,3.3
+f6574496-3333-47b9-9a49-335624ac0bb1,Ciência de Dados,9.1
+e40a70cf-008e-47a9-a8d0-c38182e32f2a,Administração,0.6
+ccf5df7e-2078-4cc5-9780-f3e09570f85e,Engenharia de Software,8.9
+6a5bb900-5ccd-4ea7-867d-89bf05f07ebc,Engenharia de Software,8.5
+9086532c-6731-499e-ab8c-fb50e24dfec1,Direito,8.7
+fd0b4a3e-4665-47db-8505-52cd65bad2a7,Ciência de Dados,1.8
+677693cb-654a-45dd-b196-836c0902e8bb,Administração,6.6
+d51ed42e-e4ff-4d60-9cd9-82a30fd2be14,Ciência de Dados,6.1
+04863ece-2883-4d67-be96-9ddc3fecaf49,Direito,8.8
+1a36c7ce-3b9e-40f0-bb73-627cf828f753,Ciência de Dados,7.6
+8b928819-eb9f-48c2-9a4e-c56e3fd86978,Engenharia de Software,0.4
+4de7db61-05a2-412c-abd5-78d2cf8cd07a,Direito,0.1
+82a78ae5-cb89-4f6a-bfe5-9e7d58418d4c,Direito,7.7
+d3bf9246-2271-4f19-b325-3701de02ef88,Engenharia de Software,7.9
+392aa87d-0f6a-4b85-870c-190cf8f1a837,Engenharia de Software,8.2
+905f3ab5-4007-4d25-8e14-30f2345ad267,Ciência de Dados,3.1
+56190bd0-8980-4153-9b01-23d7fda59439,Administração,3.5
+55639acb-e986-4bcc-9a94-036f709fef15,Direito,3.0
+5659e9a3-8bbe-41b6-9749-c521c2c01db9,Administração,4.7
+d0c4527f-4356-498e-95e7-7939cd4c7588,Direito,6.3
+1b3fa15a-5a8f-48cc-8bd7-083bbe6f418a,Ciência de Dados,8.5
+3dfbe296-7b72-4941-a763-7d96c87abbeb,Engenharia de Software,6.4
+9961ab90-3bf4-44b8-b60d-32aa32782cc2,Direito,0.4
+94180323-ab4e-421c-99f3-f1cbc0f3d8bd,Ciência de Dados,8.8
+9ba4ca24-3966-4c2e-b956-bbd4e403a4ac,Administração,8.4
+2c52429e-9c2d-45d7-9c28-80d192b0961f,Engenharia de Software,5.1
+ee77754f-b36e-4e3f-a054-e68b32d44590,Ciência de Dados,2.6
+0f7e9212-0fc7-4038-a074-a2a63c0577bf,Direito,8.4
+89ea0e44-9584-4603-b80a-1f6b17a28249,Administração,9.5
+f10c55d8-7499-4a92-ace8-82fcc818fd3b,Administração,9.9
+5947336e-59fd-4649-9b70-864bf9e5a7e3,Ciência de Dados,9.3
+7fb42e5e-8192-4bd9-bd02-72d1bc08d122,Direito,1.6
+d554ba55-0526-48e8-8202-fcc6a55e42ad,Direito,5.1
+72eb0bce-364a-4ff7-a208-af64b02e7d87,Direito,9.2
+c4831521-59a8-4b24-82b6-f51fa92486c5,Administração,2.0
+a101e24e-b80f-43f9-a40f-21ec48e5fef1,Ciência de Dados,1.7
+884bbff5-f59b-4bfc-a120-4a561a55eca7,Ciência de Dados,1.6
+c037a9ab-8639-4a53-95c5-afc3c5b4cdc5,Ciência de Dados,8.1
+32947c39-592e-4053-b487-569eceb97d5f,Direito,8.4
+8bf187d3-3651-42de-a2ce-aaa101c4b38d,Ciência de Dados,3.5
+04b5b93f-26a1-4d08-8af7-38f323221c56,Administração,9.6
+912a0ce8-aeb2-402d-9e26-64eaeeeb2ae9,Engenharia de Software,2.4
+7f79db6b-d32d-4b2c-9945-b9da63cd58b2,Ciência de Dados,8.6
+5462987c-30a2-4883-ab4a-ddfb307dac43,Direito,1.6
+b6fb6b7b-941f-4e81-b67f-614793e8ce67,Administração,6.8
+23d30fcb-130f-461e-a478-3683c08d9e84,Ciência de Dados,0.5
+5a7bc62a-d744-4b77-a9c0-65fbdee118ec,Direito,0.6
+7bd7e1f5-9d9b-40ad-81db-2a26c25d3e58,Ciência de Dados,5.6
+0c6fbd53-6458-4db8-b67d-9252c9ddcc10,Direito,8.5
+63b553f9-a07d-4497-8d08-e776b9adb640,Administração,5.2
+cfa2fdf3-a861-479d-b6dd-f56adb387780,Engenharia de Software,7.5
+5a92f756-064f-4c99-9d15-53ab713dbd3f,Ciência de Dados,9.2
+ef436a88-0af5-4003-8d26-0532d50086a4,Administração,5.0
+521ec37a-e21a-427b-bc8c-91056741aa95,Direito,4.9
+0cd0861d-a6d1-45b4-9f5e-d11fc2504b7e,Administração,2.3
+cf9cea63-6220-49c7-9314-fb8362b6f39d,Engenharia de Software,4.4
+4a04d791-afab-476d-962c-91dccfa97d34,Engenharia de Software,8.9
+97ef3ad1-fdc1-49f3-96f8-5c73df1bff2b,Administração,1.1
+6567facf-3afe-4af3-bf84-49efe1ac5a04,Engenharia de Software,6.9
+798a4879-f961-48b5-98c8-3f4789de6971,Direito,8.0
+7b4576bd-7635-431e-82c6-a358d6d7e693,Administração,1.9
+ad49e201-40fc-4d5d-be2e-4b53c1a7ce43,Direito,3.3
+2fd74d80-e1ed-434e-9893-1ef4b96bb151,Ciência de Dados,2.2
+a67254ea-bc92-4652-be18-4b022323470b,Engenharia de Software,7.7
+68a7e9ba-1442-4734-9ec1-668af35ab31f,Engenharia de Software,1.0
+9252cc48-1155-460c-b35d-2c7e48fe7d70,Ciência de Dados,2.4
+1f2256db-0f34-4fae-a712-a3805f3124be,Administração,6.6
+14702b8b-40d7-4d85-92b2-1b3a356d8cf2,Direito,3.5
+07c54df1-77dc-47b7-8ffc-730b2b914d12,Direito,5.4
+8411b5f7-389e-4504-9e2d-58f5bf3a0530,Direito,0.0
+c50ee5a1-215c-4eef-a259-4d2862367cc0,Direito,3.6
+3f593971-2ca4-4fb3-9a59-409f581a5375,Direito,6.5
+32d2faec-823b-4f91-bcb0-97a6690662ec,Ciência de Dados,6.5
+a1d70fef-b535-4203-9d82-25e9d2cf2527,Ciência de Dados,6.5
+facb43ed-580f-4ff9-9b68-227ab4e5888e,Administração,10.0
+3bd4b023-869b-4296-8536-a6e2542ea51e,Administração,9.2
+091923af-28fd-4396-8803-59e50e43bcbe,Direito,9.3
+5eef120c-4139-490b-9376-4ceb09822bb2,Ciência de Dados,0.0
+b4d8c220-926a-484e-bbe9-495646064203,Ciência de Dados,9.1
+b4926f21-8db0-432a-8749-5572dbf44e5d,Engenharia de Software,0.3
+53ff55e3-7878-4f8c-8cb5-8159beb88d75,Engenharia de Software,7.2
+26482c40-f6f3-4450-90d2-2511d0c4a625,Ciência de Dados,1.3
+7aef71b2-286b-4f10-8dea-20fa24778a0f,Engenharia de Software,9.0
+e48c3e9e-a869-41b5-ae72-5f9f005d7c64,Direito,0.6
+9178073e-c217-4c65-935f-619ede338198,Engenharia de Software,0.0
+4d4da065-6233-4cdc-a76c-2643e6372369,Administração,3.8
+455c91e5-7405-4c56-be77-da6c40b23ab2,Engenharia de Software,6.4
+43b07744-3721-4bf7-8351-b5a36875f60d,Engenharia de Software,0.1
+42899881-9451-4309-a33e-7fcb0a2166c5,Ciência de Dados,1.9
+076a619e-deef-4ee7-9dfb-957b3f8933d6,Direito,6.6
+2d77dbc6-911d-4039-9be9-8e442d1d7589,Administração,2.3
+57a8c71c-c2e0-4f27-a119-6509a2117f5c,Ciência de Dados,0.0
+5795db93-e9cf-44fb-8877-e0d87ba85819,Engenharia de Software,3.2
+fce69593-ff08-4dd0-aa1e-fe3eafd06d8e,Direito,6.3
+7fb0cdea-a453-4d6d-a8c7-774b6d2bb82e,Direito,2.4
+141ad95e-23e3-45bd-84cb-8d4d87d4a6f4,Direito,0.1
+ee8aa833-6d6c-4ecf-8acc-d7b0bf2abbaf,Ciência de Dados,5.2
+90be80d3-b3dd-4a84-825e-3b24edd94a40,Administração,4.1
+f5f886ba-b37e-4abd-8cd0-0e3724dc3b94,Ciência de Dados,3.5
+41da76e1-ba6c-45de-bdbd-b650eb000125,Ciência de Dados,2.7
+f4837544-6de7-404a-a78d-bd279a938c6a,Ciência de Dados,8.8
+c52d6fa9-09b6-4e18-a5f5-73e7eea05cab,Ciência de Dados,3.8
+1ae6b68a-5ab3-4a98-a015-271969a31eb5,Engenharia de Software,8.6
+23c170bd-1fe7-4daf-891c-4b8ade396593,Administração,9.7
+50a6afe1-5128-4cf5-a3ed-a381c1a8840f,Direito,9.9
+bcab93e5-7c21-4cbd-a6b4-55941af16618,Administração,5.4
+be1c2e3c-29bc-48ba-af72-65ccb5201cdc,Administração,3.1
+08a0a341-dc2d-4323-a351-126a3f3a527c,Engenharia de Software,1.2
+bbb0aa52-9cf2-4dd1-8c79-32deefab1ccc,Administração,7.5
+7bf2c762-8c04-473c-9896-480de77283a1,Ciência de Dados,5.3
+ca4384b4-a8c2-4a23-9cc9-9ba709a4be7e,Engenharia de Software,8.1
+a43bdb50-6fd5-471d-8f02-f5689bd4dd23,Ciência de Dados,3.9
+71148d83-1ee3-4cc5-aa34-ec973bfbf02d,Engenharia de Software,1.2
+73369474-417a-448a-b419-0d1bd5d5ec9a,Direito,1.2
+fa82f068-cce9-4760-96df-c0404463c379,Administração,7.3
+8ad2a742-204e-48cf-94af-3a7b1d7edfd5,Direito,9.3
+bfee672a-0595-4c14-860e-15f873724c89,Engenharia de Software,5.5
+ff5747ce-cf87-49cb-aaa1-561ac01e7620,Administração,2.5
+a0cf2c1c-84b4-4309-858e-e5542c39adc7,Engenharia de Software,0.7
+214af531-2b2c-4ce1-9fd5-aa65ea2b43f2,Ciência de Dados,5.0
+9cc426c0-a4b7-4a7f-a017-5d8a02a49a3e,Direito,0.8
+b2a2cbec-b19e-47e9-9f22-7838af7e6783,Direito,2.0
+2d002d9b-e83e-426b-964f-fdc94e1ffb21,Direito,1.2
+8342c026-6d98-4d72-8c7f-f4582d203e31,Ciência de Dados,0.5
+e65d02c4-b064-4339-a2ce-46cb5667f135,Engenharia de Software,2.3
+a2c55351-885b-4cfd-b99b-928243f5f0b9,Administração,1.3
+9cb7e830-b1e0-4df6-a71f-c8fff067fcdb,Engenharia de Software,4.5
+ca4123d0-413a-432c-8afa-a1758290ddc0,Ciência de Dados,6.1
+b371fce5-6182-459d-8a91-265f878ccc2e,Engenharia de Software,0.8
+c61aa96e-8e79-4ad2-99e1-67243a7a3296,Engenharia de Software,5.5
+71a673c9-9fb4-498f-b0bc-ef73031144d0,Engenharia de Software,0.6
+24fcff14-6976-424d-b577-b4e924ec27d0,Ciência de Dados,7.5
+32244529-ddeb-43c1-a384-f04b9e625ab5,Ciência de Dados,2.7
+2ccd92b2-8e13-46e9-8a51-cb0b2059dcac,Ciência de Dados,6.8
+df531e12-518c-4607-92f4-72ce092eb916,Engenharia de Software,3.7
+9c2262f9-226d-4800-a39e-318a2c11b14d,Direito,2.4
+b301393f-c8df-4c89-bea0-2cbaecc20149,Direito,6.8
+40281d96-f317-4344-a96e-5ed7b5594a49,Direito,6.6
+a0a947ab-c704-4bdd-a4d5-06ea2b369e80,Administração,3.8
+abd5dc98-6691-4e1d-a2ac-1187ec5da456,Direito,1.2
+70e90513-7adb-4ee3-b34b-376db8f9ff3d,Administração,9.2
+15c42e10-2163-4162-a8d7-cb2aa0746dfc,Administração,0.3
+7cb474ec-feb1-4a42-86b0-e3e9bad353e4,Engenharia de Software,9.5
+2425b68b-bb8e-4a0d-aafb-82c339251a25,Direito,7.7
+a6daa594-94d4-43eb-a063-4a5ec1eb9704,Ciência de Dados,0.9
+e27af33a-a71f-4a7b-8502-5d2eb7201b6f,Ciência de Dados,0.1
+1b2f2d69-9d66-4454-9ed8-5d8f9b205d03,Engenharia de Software,0.7
+8b54f7c3-1b5e-4f40-8e7c-3d2437d25eae,Direito,0.3
+2d29b794-f649-4e45-ab6e-ec89f889050c,Engenharia de Software,1.2
+97f80834-af2f-4d78-b976-1d1a1f855ad2,Direito,5.4
+80779490-9baf-4830-887d-e1313a6c16d9,Direito,3.0
+5173c456-e74a-468f-baf3-f2deb5f189d6,Engenharia de Software,0.6
+6d21fb61-f7e5-4d7d-b505-2ee57345570c,Administração,2.3
+da99035c-fe08-400f-a7cd-dd781eabcfc0,Administração,5.8
+b1612e8f-5f74-4788-a131-57bf7030b9ae,Administração,4.6
+2b802562-26ba-4815-b4ad-ac41ad69cf4b,Administração,3.5
+88a868a2-955f-4683-bd38-95da66d29eff,Direito,8.9
+c4b3bfb1-07dd-4283-b95d-17112aa42041,Ciência de Dados,6.4
+32da04a2-7d33-4d76-ae58-b0958e841fd1,Direito,0.8
+29cd5960-f697-464c-9fbe-41b0799e3063,Engenharia de Software,1.4
+66093a6c-6293-442f-8170-f9cfd92d6171,Direito,5.5
+9cfec276-0725-4c88-9a86-ff206b0eb9cb,Direito,7.6
+7f721ff4-beb1-4d99-8d67-231bf0de1590,Administração,4.5
+9ea24d13-8d26-4e6f-97da-d21832d13839,Administração,6.9
+c00a33be-eccd-4040-b66a-2e3605bf0790,Engenharia de Software,3.5
+86bc0711-d87d-4724-b50f-b3e1fda3bfdd,Engenharia de Software,7.4
+dc24aad2-b455-4344-a71c-ed62b92e3d56,Administração,6.1
+b98a326d-6d0c-429b-9735-7a62f2298eb5,Administração,2.7
+ffe5d6b1-7890-4bb6-a3b7-151f059560df,Direito,1.9
+ce8aa707-87f0-4010-b370-1eb653fea711,Administração,3.6
+6aced9b6-f36b-4020-aebb-a699d67f0949,Ciência de Dados,6.5
+cef46ff9-eadc-45b8-be58-5bcbb26264fb,Engenharia de Software,5.2
+b1fc0e52-3e22-42e9-a3ff-1a2e665ff4aa,Engenharia de Software,6.9
+83dc1270-c8c0-4579-a7ac-ab9b779ec7fd,Ciência de Dados,0.8
+7566909c-d33d-4dbf-a9d1-9279ed22ee84,Engenharia de Software,2.8
+86bf5013-d2c0-410e-a7e2-93866eb2acc1,Administração,2.5
+78b48697-f88c-4d6d-b6a3-78cd148e742f,Direito,4.4
+776d4258-ec5a-4ba0-986a-c29a7eb20819,Administração,1.0
+db17c26f-0d9e-417e-93e9-8a6c5ea5a6bb,Administração,3.6
+407a7f41-9df1-4aec-836e-85e883cc97ba,Ciência de Dados,2.9
+a254a1a2-efdc-425e-9457-36115c411599,Administração,2.7
+d3fd7445-f251-4787-bf87-ac10cfea221d,Ciência de Dados,6.1
+bb019ed5-4bf7-4543-9173-36680258c51f,Administração,8.2
+bf141f01-ac46-4541-a15f-324dae0ff7d9,Direito,1.0
+feb4ef35-dd84-4d26-9f55-c5aff3093fc5,Engenharia de Software,8.8
+c1229e91-2ded-408c-bc82-429d405a5774,Direito,3.2
+e8657c95-ed86-4a14-b169-36949b510b50,Ciência de Dados,7.9
+35bfc999-cb32-42e3-a1a6-c7c72e1b84c8,Engenharia de Software,0.1
+6d76abb2-44b3-44d8-a5e6-5b38df3d4c93,Engenharia de Software,6.3
+684d4a68-ef81-4070-a580-74c87931175f,Ciência de Dados,6.7
+efcb158d-1a44-48c7-a7b1-8886c2bc6fc2,Administração,3.3
+c500a057-0e56-48bc-aedb-16107f13a5e1,Administração,10.0
+3eb8ca04-e038-4acc-b374-ecf3d61eee00,Engenharia de Software,0.7
+dc477e61-63b7-44ce-aa48-71a4809e7a8f,Administração,8.1
+0ffb9675-6ef5-4260-98b3-37f743f43b5c,Ciência de Dados,7.5
+39265059-4d05-4d00-aff7-f2de5892da41,Direito,4.8
+013b729c-e084-4750-8cad-efa8f2bf4996,Administração,9.7
+d2750013-a61d-4f36-93a6-fcc4c0a8cec4,Ciência de Dados,5.7
+cfa0dfab-88e7-476e-a41c-3ce66e4eddad,Administração,0.7
+5f29601c-844b-4620-b809-bc74f5ef56cf,Engenharia de Software,1.5
+29cb0c01-fd27-4509-b20b-bf82b62ea0f1,Engenharia de Software,10.0
+f2955597-7c55-4a65-b2ab-fddbf47637a0,Ciência de Dados,7.8
+de2acf37-a5c7-46a3-8a2b-dd447f19fbfa,Administração,2.0
+8f221c39-8354-4538-b506-cf18e7dd6492,Ciência de Dados,2.4
+d5aad977-16fc-4cbd-b1f2-5deb8ae279cd,Administração,7.7
+865faa19-dd6e-4be4-a875-4ae71837222f,Administração,7.4
+278cccb4-e507-4396-b26a-0a790d5f143b,Direito,9.3
+00334049-d996-4c99-b94a-848063fe71f3,Direito,5.3
+7acc9821-3e00-4ab0-ad04-8df1eb0378fa,Ciência de Dados,8.9
+69cc0087-6a6f-4230-990b-4da5c8bbe566,Direito,5.6
+54e6e711-3d69-40cb-8046-44de3fda5035,Engenharia de Software,8.6
+d25f204a-5266-4ab5-907a-79948cad25dc,Engenharia de Software,4.5
+a39cb89c-eea1-4a2d-877d-61bedb14db8b,Direito,8.9
+cf1b8225-9a2c-4b0e-8c42-f34a0bb1dfab,Engenharia de Software,2.5
+0b88aff3-8e5b-4b2b-b42a-20b0a08b3f9d,Engenharia de Software,1.6
+f736a428-cfc3-4167-ab8c-8132613a2300,Engenharia de Software,1.6
+ea5ae3d0-454d-4b26-be42-2fcf646f5d1f,Direito,0.0
+f24343fa-27f8-4412-9a0d-590f9284576f,Ciência de Dados,1.0
+8af3dae7-7c4e-460a-8b5c-d1c7075d7fae,Administração,8.8
+1d80a40e-f910-4723-96d2-862ee5c816ba,Ciência de Dados,1.7
+b436dc7c-06ba-455c-b229-fc7e93cc5f13,Direito,4.6
+29a0c099-9db3-4494-a553-69fc3392a06c,Engenharia de Software,2.1
+c6d027bb-5937-4341-a287-81ca9171d22b,Administração,6.9
+19415b65-f26f-4dc4-b638-464bd5a6428d,Administração,5.3
+5c01204f-a52a-40ec-9ef7-e47aa314c7dc,Engenharia de Software,8.0
+49641c18-421b-406c-bfed-87dfd95b4306,Direito,3.1
+6eb1aa71-fc1f-4c42-aa21-4bce2a8ce0f2,Ciência de Dados,7.1
+c1804ad8-3a35-46d0-b7ea-15ca614967e3,Direito,8.1
+00f543bf-662c-40b6-8896-5ff53ae7b528,Administração,9.3
+df516c39-e9ad-4d7a-bd30-4d45998a6f42,Engenharia de Software,7.9
+bb4fe285-2c6e-485a-a25c-ba001f505a68,Administração,7.7
+692e7e03-e3f8-4fd5-8e19-8f2a79127ddb,Administração,1.5
+9c1badf0-46b4-4b58-92b9-5eae08699f8a,Ciência de Dados,9.4
+3b2dbfb2-7019-44ac-a847-abdd9fde1a91,Direito,1.7
+52800d01-ae0c-4c88-b6ef-359dfb83d553,Direito,8.8
+f02fe499-0945-4a94-952c-a0af7007f2aa,Administração,0.0
+a10deb15-26ad-4428-aefe-139e5e41a6c6,Ciência de Dados,9.5
+c6a8293a-89ad-4863-b992-cc8dd5a4853b,Engenharia de Software,7.4
+a7cd53ec-d4fc-4656-b6a1-129f08372ee1,Engenharia de Software,1.3

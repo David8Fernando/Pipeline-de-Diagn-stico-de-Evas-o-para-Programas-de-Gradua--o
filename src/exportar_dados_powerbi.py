@@ -1,19 +1,16 @@
-import pandas as pd
-
-from pathlib import Path
 from datetime import datetime
+from src.config import REFINED_PATH
 
-def exportar_dados(df, nome_arquivo):
-    BASE_DIR = Path(__file__).resolve().parent.parent
-    OUTPUT_PATH = BASE_DIR / "data" / "refined"
-    OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
 
+def exportar_dados(df, nome):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-    file_parquet = OUTPUT_PATH / f"{nome_arquivo}_{timestamp}.parquet"
-    file_csv = OUTPUT_PATH / f"{nome_arquivo}_{timestamp}.csv"
+    parquet_path = REFINED_PATH / f"{nome}_{timestamp}.parquet"
+    csv_path = REFINED_PATH / f"{nome}_{timestamp}.csv"
 
-    df.to_parquet(file_parquet, index=False)
-    df.to_csv(file_csv, index=False)
+    df.to_parquet(parquet_path, index=False)
+    df.to_csv(csv_path, index=False)
 
-    return file_parquet, file_csv
+    print(f"Exportado: {nome}")
+
+    return parquet_path, csv_path

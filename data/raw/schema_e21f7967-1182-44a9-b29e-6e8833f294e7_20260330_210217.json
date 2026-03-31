@@ -1,0 +1,44 @@
+[
+    {
+        "column": "student_id",
+        "type": "string",
+        "nulls": 0,
+        "unique": 100
+    },
+    {
+        "column": "timestamp",
+        "type": "string",
+        "nulls": 0,
+        "unique": 100
+    },
+    {
+        "column": "course_name",
+        "type": "string",
+        "nulls": 0,
+        "unique": 4
+    },
+    {
+        "column": "enrollment_status",
+        "type": "string",
+        "nulls": 0,
+        "unique": 4
+    },
+    {
+        "column": "grade_point_average",
+        "type": "float",
+        "nulls": 0,
+        "unique": 65
+    },
+    {
+        "column": "attendance_rate",
+        "type": "integer",
+        "nulls": 0,
+        "unique": 43
+    },
+    {
+        "column": "scholarship_percent",
+        "type": "integer",
+        "nulls": 0,
+        "unique": 4
+    }
+]
