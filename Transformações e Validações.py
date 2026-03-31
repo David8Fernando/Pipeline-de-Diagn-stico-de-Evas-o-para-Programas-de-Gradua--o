@@ -23,7 +23,7 @@ def main():
     # 1. EXTRAÇÃO AUTOMÁTICA
     arquivo = baixar_dados_api(PROJECT_ID)
 
-    # 2. LEITURA (SEM BUSCA MANUAL)
+    # 2. LEITURA 
     df = carregar_dados(arquivo)
 
     # 3. VALIDAÇÃO
@@ -38,10 +38,10 @@ def main():
     df_frequencia = tabelas_intermediarias_frequencia(df)
     df_desempenho = tabelas_intermediarias_desempenho(df)
 
-    # 6. INDICADORES (REQUISITO)
+    # 6. INDICADORES 
     df_indicadores = gerar_indicadores(df)
 
-    # 7. EXPORTAÇÃO POWER BI (AGORA CORRETA)
+    # 7. EXPORTAÇÃO POWER BI 
     exportar_dados(df_consolidado, "consolidado")
     exportar_dados(df_matricula, "matricula")
     exportar_dados(df_frequencia, "frequencia")
